@@ -269,28 +269,42 @@ if "policy_name" not in policies_df.columns:
     st.error("A tabela de políticas precisa ter 'policy_name' (ou Nome/Título).")
     st.stop()
 
+# ==== Correções começam aqui ====
+
 if 'reqs_df' not in locals() or reqs_df is None:
-    reqs_df = _load_first_available([
+    tmp = _load_first_available([
         "policy_requirements", "requirements", "02_policy_requirements",
         "processed/policy_requirements", "processed/requirements",
         "requisit*", "processed/requisit*",
-    ]) or pd.DataFrame(columns=["policy_id","attribute","operator","value","mandatory_flag"])
+    ])
+    if tmp is None or (isinstance(tmp, pd.DataFrame) and tmp.empty):
+        reqs_df = pd.DataFrame(columns=["policy_id", "attribute", "operator", "value", "mandatory_flag"])
+    else:
+        reqs_df = tmp
 reqs_df = _normalize(reqs_df)
 if "mandatory_flag" not in reqs_df.columns:
     reqs_df["mandatory_flag"] = True
 
 if 'info_df' not in locals() or info_df is None:
-    info_df = _load_first_available([
+    tmp = _load_first_available([
         "policy_info", "03_policy_info",
         "processed/policy_info", "info", "processed/info",
-    ]) or pd.DataFrame(columns=["policy_id","info_key","info_value"])
+    ])
+    if tmp is None or (isinstance(tmp, pd.DataFrame) and tmp.empty):
+        info_df = pd.DataFrame(columns=["policy_id", "info_key", "info_value"])
+    else:
+        info_df = tmp
 info_df = _normalize(info_df) if not info_df.empty else info_df
 
 if 'contacts_df' not in locals() or contacts_df is None:
-    contacts_df = _load_first_available([
+    tmp = _load_first_available([
         "policy_contacts", "contacts", "04_policy_contacts",
         "processed/policy_contacts", "processed/contacts",
-    ]) or pd.DataFrame(columns=["policy_id","org_name","phone","email","url","notes"])
+    ])
+    if tmp is None or (isinstance(tmp, pd.DataFrame) and tmp.empty):
+        contacts_df = pd.DataFrame(columns=["policy_id", "org_name", "phone", "email", "url", "notes"])
+    else:
+        contacts_df = tmp
 contacts_df = _normalize(contacts_df) if not contacts_df.empty else contacts_df
 
 # índices auxiliares
