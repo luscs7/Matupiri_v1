@@ -1,0 +1,76 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "matupiri"
+version = "0.1.0"
+description = "Plataforma Matupiri — recomendador de políticas públicas (Streamlit)"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Matupiri contributors" }]
+dependencies = [
+  "streamlit>=1.36",
+  "pandas>=2.2",
+  "pydeck>=0.9",
+  "openpyxl>=3.1",
+  "geopandas>=1.0",
+  "pyogrio>=0.9",
+  "shapely>=2.0",
+  "pydantic>=2.7",
+  "python-dotenv>=1.0"
+]
+
+[project.optional-dependencies]
+dev = [
+  "ruff>=0.5",
+  "mypy>=1.10",
+  "pytest>=8.2",
+  "pytest-cov>=5.0"
+]
+
+[project.scripts]
+matupiri-etl = "etl.run_all:main"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+extend-exclude = ["data/", "infra/.github/"]
+lint.select = ["E","F","I","W","UP","B","SIM","PL"]
+lint.ignore = [
+  "E501",  # delegamos para formatter/linelength
+]
+# isort via ruff
+[tool.ruff.lint.isort]
+known-first-party = ["app", "etl", "tests"]
+section-order = ["future","standard-library","third-party","first-party","local-folder"]
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]
+
+[tool.mypy]
+python_version = "3.11"
+ignore_missing_imports = true
+warn_unused_ignores = true
+warn_redundant_casts = true
+warn_unreachable = true
+show_error_codes = true
+plugins = []
+exclude = [
+  "data/.*",
+  "infra/.github/.*"
+]
+
+[tool.pytest.ini_options]
+addopts = "-q --maxfail=1 --disable-warnings --cov=app --cov-report=xml"
+testpaths = ["tests"]
+
+[tool.setuptools]
+packages = ["app", "etl"]
+
+[tool.setuptools.package-data]
+# se quiser incluir templates/estáticos depois
+"app" = ["**/*.json", "**/*.yaml", "**/*.yml"]
+

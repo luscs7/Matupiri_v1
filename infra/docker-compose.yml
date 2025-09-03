@@ -1,0 +1,21 @@
+version: "3.9"
+services:
+  matupiri:
+    build:
+      context: ..
+      dockerfile: infra/Dockerfile
+    ports:
+      - "8501:8501"
+    environment:
+      # Se quiser sobrescrever caminhos em runtime:
+      POLICIES_XLSX: data/processed/politicas_publicas.xlsx
+      DEFESOS_CSV: data/processed/defesos.csv
+      UCS_CSV: data/processed/ucs.csv
+      UCS_GEOJSON: data/processed/ucs.geojson
+      GEO_UFS: data/processed/geo/ufs.csv
+      GEO_MUN: data/processed/geo/municipios.csv
+      PROFILE_SCHEMA: data/docs/profile_schema.json
+      KEYWORD_MAP: data/docs/keyword_map.json
+    volumes:
+      - ../data:/app/data
+      - ../pp_platform.db:/app/pp_platform.db

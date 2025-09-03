@@ -1,0 +1,25 @@
+{
+  "profile_code": "PRF-250902200307-DFA2",
+  "nome": "Salvaterra",
+  "genero": "Homem",
+  "segmento": "Pessoa Física",
+  "cpf_cnpj": "",
+  "uf": "AP",
+  "municipio": "160030",
+  "municipio_label": "Macapá (160030)",
+  "uf_display": "AP — Amapá",
+  "atividade": "Aquicultura",
+  "experiencia_anos": 8,
+  "docs": {
+    "CAF/DAP ativa (Agricultura Familiar)": false,
+    "RGP/Registro Pesca": true,
+    "Comprovante de residência": false,
+    "Comprovante de atividade": false,
+    "NIS/PIS": false
+  },
+  "created_at": "2025-09-02T20:03:07.187966+00:00",
+  "updated_at": "2025-09-02T20:28:05.640157+00:00",
+  "docs_presentes": [
+    "RGP/Registro Pesca"
+  ]
+}

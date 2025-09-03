@@ -1,0 +1,52 @@
+matupiri/
+├─ app/ # código de aplicação (Streamlit + serviços)
+│ ├─ pages/ # páginas multipage do Streamlit (ok)
+│ │ ├─ 1_Observatório.py
+│ │ ├─ 2_Perfil_e_Análise.py
+│ │ ├─ 3_Busca_de_Políticas.py
+│ │ ├─ 4_Unidades_de_Conservação.py
+│ │ └─ 5_Defesos.py
+│ ├─ components/ # componentes de UI reutilizáveis (cards, tabelas, mapas) (ok)
+│ ├─ services/ # lógica de negócio (regras, consultas, integrações) (ok)
+│ │ ├─ policies_engine.py # árvore de decisão / avaliador de elegibilidade
+│ │ ├─ uc_catalog.py # catálogo de UCs
+│ │ ├─ defeso_calendar.py # calendário de defesos
+│ │ ├─ search_index.py # índice de busca
+│ │ └─ geo.py # funções geoespaciais (geopandas/leafmap)
+│ ├─ models/ # modelos de domínio (Pydantic) (ok)
+│ │ ├─ policy.py
+│ │ ├─ requirement.py
+│ │ ├─ region.py
+│ │ └─ user_profile.py
+│ ├─ data_access/ # leitura/gravação de dados (CSV/Parquet/Geojson) (ok)
+│ │ ├─ repositories.py # repos nítidos por entidade
+│ │ └─ storage.py # paths/abstrações de armazenamento
+│ ├─ utils/ # utilidades (cache, validação, parsing) (ok)
+│ └─ app.py # entrypoint do Streamlit (OK)
+│
+├─ data/ # versionada (mínimo) — sem dados sensíveis (OK)
+│ ├─ raw/ # dumps brutos (ex.: respostas HTTP)
+│ ├─ interim/ # dados “limpos”, porém não finais
+│ ├─ processed/ # tabelas finais (CSV/Parquet/GeoJSON)
+│ └─ docs/ # dicionário de dados, esquemas, notas
+│
+├─ etl/ # pipelines para baixar/limpar dados públicos (OK)
+│ ├─ fetch_uc.py
+│ ├─ fetch_defeso.py
+│ ├─ fetch_policies.py
+│ └─ make_index.py
+│
+├─ tests/ # testes unitários/integração (OK)
+│ ├─ test_policies_engine.py
+│ ├─ test_models.py
+│ └─ test_pages_smoke.py
+│
+├─ infra/ # automações de CI/CD e deploy (OK)
+│ ├─ .github/workflows/ci.yml
+│ └─ streamlit_secrets.example.toml
+│
+├─ .env.example (OK)
+├─ .gitignore (OK)
+├─ pyproject.toml # dependências e ferramentas de estilo
+├─ README.md
+└─ LICENSE

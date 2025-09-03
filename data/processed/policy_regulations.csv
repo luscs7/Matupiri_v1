@@ -1,0 +1,69 @@
+policy_id,regulation_type,citation,url,notes
+POL001,lei,Lei nº 11.326/2006 (define a agricultura familiar),https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11326.htm,Base conceitual do público PRONAF.
+POL001,norma técnica,Manual de Crédito Rural – MCR (cap. 10 – Pronaf),https://www.bcb.gov.br/estabilidadefinanceira/mcr,Regras operacionais e limites de crédito do Pronaf.
+POL001,página oficial,Pronaf – Ministério do Desenvolvimento Agrário e Agricultura Familiar (MDAAF),https://www.gov.br/mda/pt-br/assuntos/credito/pronaf,Informações atualizadas sobre linhas e taxas.
+POL002,decreto,Decreto nº 11.626/2023 (institui o Programa Povos da Pesca Artesanal),https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11626.htm,
+POL002,página oficial,Programa Povos da Pesca Artesanal – MPA,https://www.gov.br/mpa/pt-br/assuntos/programa-povos-da-pesca-artesanal,"Estrutura, eixos e ações do programa."
+POL003,decreto,Decreto nº 12.381/2025 (institui o Desenrola Rural e estabelece diretrizes),https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12381.htm,
+POL003,edital,Edital PGFN nº 1/2025 (adesão e condições gerais – Desenrola Rural),https://www.gov.br/pgfn/pt-br/assuntos/edital/edital-no-1-de-2025,Condições e prazos para negociação via PGFN.
+POL003,página oficial,Desenrola Rural – MDAAF,https://www.gov.br/mda/pt-br/assuntos/desenrola-rural,"Perguntas frequentes, públicos e alcance."
+POL004,lei,Lei nº 11.947/2009 (alimentaçao escolar; 30% da agricultura familiar),https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L11947.htm,
+POL004,resolução,Resolução CD/FNDE nº 6/2020 (normas gerais do PNAE),https://www.fnde.gov.br/index.php/centrais-de-conteudos/publicacoes/category/116-resolucoes?download=14427:resolucao-cd-fnde-no-6-de-8-de-maio-de-2020,
+POL004,página oficial,PNAE – FNDE,https://www.fnde.gov.br/programas/pnae,
+POL005,portaria,Portaria MAPA nº 425/2022 (institui GT para o Plano Nacional de Desenvolvimento da Aquicultura – PNDA),https://www.gov.br/agricultura/pt-br/assuntos/aquicultura-e-pesca/arquivos-aquicultura/portaria-mapa-425-2022.pdf,Para a componente ‘Aquicultura’. Não há ato único consolidando um PNDAP (Pesca e Aquicultura) – usar PNDA + instrumentos setoriais de pesca.
+POL005,plano,Plano Nacional de Desenvolvimento da Aquicultura – PNDA (ebook),https://www.gov.br/agricultura/pt-br/assuntos/aquicultura-e-pesca/aquicultura/plano-nacional-de-desenvolvimento-da-aquicultura/ebook-pnda,Diretrizes 2022–2032.
+POL006,decreto,Decreto nº 6.040/2007 (institui a PNPCT),https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Decreto/D6040.htm,
+POL007,lei,Lei nº 11.959/2009 (Política Nacional de Pesca e Aquicultura),https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11959.htm,Base legal do RGP.
+POL007,decreto,Decreto nº 8.425/2015 (RGP – procedimentos),https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Decreto/D8425.htm,
+POL007,portaria,Portaria MPA nº 127/2023 (normas para RGP),https://www.in.gov.br/en/web/dou/-/portaria-mpa-n-127-de-19-de-junho-de-2023-493367004,
+POL007,portaria,Portaria MPA nº 209/2024 (atualiza procedimentos do RGP),https://www.in.gov.br/pt/web/dou/-/portaria-n-209-de-26-de-fevereiro-de-2024-548771505,
+POL008,lei,Lei nº 10.779/2003 (institui o Seguro-Defeso),https://www.planalto.gov.br/ccivil_03/leis/2003/l10.779.htm,
+POL008,decreto,Decreto nº 12.527/2025 (regulamenta o Seguro-Defeso),https://www.in.gov.br/en/web/dou/-/decreto-n-12.527-de-24-de-junho-de-2025-638087503,Regulamentação 2025.
+POL008,página oficial,Período de Defeso e Seguro-Defeso – MPA,https://www.gov.br/mpa/pt-br/assuntos/pesca/periodo-de-defeso,Orientações e links para requerimento no INSS.
+POL009,lei,Lei nº 9.985/2000 (institui o SNUC),https://www.planalto.gov.br/ccivil_03/leis/l9985.htm,
+POL009,decreto,Decreto nº 4.340/2002 (regulamenta dispositivos da Lei do SNUC),https://www.planalto.gov.br/ccivil_03/decreto/2002/d4340.htm,
+POL010,lei,Lei nº 11.346/2006 (cria o SISAN e institui a PNSAN),https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11346.htm,
+POL010,decreto,Decreto nº 7.272/2010 (regulamenta a LOSAN),https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Decreto/D7272.htm,
+POL011,lei,Lei nº 10.696/2003 (institui o PAA),https://www.planalto.gov.br/ccivil_03/leis/2003/L10.696.htm,
+POL011,decreto,Decreto nº 7.775/2012 (regulamenta o PAA),https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7775.htm,
+POL012,lei,Lei nº 12.188/2010 (institui a PNATER e o PRONATER),https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Lei/L12188.htm,
+POL012,decreto,Decreto nº 7.215/2010 (regulamenta a Lei 12.188/2010),https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Decreto/D7215.htm,
+POL013,portaria interministerial,Portaria Interministerial nº 239/2009 (institui a PNPSB),https://www.gov.br/mda/pt-br/assuntos/sociobiodiversidade/portaria-interministerial-n-239-de-21-de-julho-de-2009.pdf,
+POL014,lei,Lei nº 8.427/1992 (PGPM),https://www.planalto.gov.br/ccivil_03/leis/l8427.htm,Base legal da PGPM.
+POL014,portaria/atos anuais,Atos anuais de preços mínimos extrativistas (PGPM-Bio),https://www.conab.gov.br/ultimas-noticias/5654-conab-divulga-precos-minimos-para-produtos-extrativistas,Publicações anuais da Conab.
+POL015,decreto,Decreto nº 9.334/2018 (institui o Planafe),https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/D9334.htm,
+POL016,portaria,Portaria MAPA nº 121/2019 (institui o Programa Bioeconomia Brasil – Sociobiodiversidade),https://www.gov.br/agricultura/pt-br/assuntos/sustentabilidade/programa-bioeconomia-brasil-sociobiodiversidade,Página oficial com atos relacionados.
+POL017,portaria,Portaria MPA nº 269/2024 (institui o PNPA),https://www.in.gov.br/en/web/dou/-/portaria-n-269-de-11-de-junho-de-2024-571014365,Plano em elaboração 2024–2025.
+POL018,lei,Lei nº 12.512/2011 (cria o Programa de Fomento),https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12512.htm,
+POL018,decreto,Decreto nº 9.221/2017 (regulamenta o Programa de Fomento),https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Decreto/D9221.htm,
+POL019,lei,Lei nº 12.512/2011 (institui o Programa de Apoio à Conservação Ambiental – Bolsa Verde),https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12512.htm,Mesmo diploma que cria o Fomento rural.
+POL019,decreto,Decreto nº 7.572/2011 (regulamenta o Bolsa Verde),https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Decreto/D7572.htm,
+POL020,lei,Lei nº 12.873/2013 (inclui as cisternas no PPA e em programas federais),https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12873.htm,
+POL020,portaria,Portaria MDS nº 168/2025 (normas operacionais do Programa Cisternas),https://www.in.gov.br/pt/web/dou/-/portaria-mds-n-168-de-10-de-marco-de-2025-556044458,
+POL021,lei,Lei nº 8.212/1991 (Plano de Custeio da Previdência Social),https://www.planalto.gov.br/ccivil_03/leis/l8212cons.htm,
+POL021,lei,Lei nº 8.213/1991 (Planos de Benefícios da Previdência Social),https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm,
+POL021,decreto,Decreto nº 3.048/1999 (Regulamento da Previdência Social),https://www.planalto.gov.br/ccivil_03/decreto/d3048.htm,
+POL022,decreto estadual,Decreto Estadual nº 2.746/2022 (institui o PlanBio/PA),https://www.semas.pa.gov.br/legislacao/files/pdf/192126.pdf,Página da SEMAS-PA com o decreto.
+POL023,instrução normativa,Instrução Normativa IBAMA nº 29/2002 (estabelece diretrizes para acordos de pesca),https://www.ibama.gov.br/component/legislacao/?view=legislacao&legislacao=131304,Base federal; estados podem complementar.
+POL024,lei estadual,Lei Estadual (PA) – Política Pesqueira e Aquícola (2005),https://www.semas.pa.gov.br/legislacao/files/pdf/160372.pdf,Diploma base da política setorial no PA.
+POL024,página oficial,Secretaria de Desenvolvimento Agropecuário e da Pesca – SEDAP/PA,https://www.sedap.pa.gov.br/,Site oficial do órgão gestor.
+POL025,página oficial,Agência Pará – Feira do Pescado (2025),https://www.agenciapara.com.br/noticia/65539/sedap-intensificara-as-acoes-de-pesca-e-aquicultura-em-abril-com-a-realizacao-de-eventos,Exemplo de ato administrativo/programação anual.
+POL025,página oficial,Agência Pará – Feira do Pescado (2024),https://www.agenciapara.com.br/noticia/52611/municipios-que-participarao-da-feira-do-pescado-2024-recebem-material-de-apoio-da-sedap,
+POL026,lei estadual,Lei Estadual nº 8.878/2019 (regularização fundiária no Pará),https://www.semas.pa.gov.br/legislacao/normas/view/635602,
+POL026,decreto estadual,Decreto Estadual nº 2.745/2022 (dispõe sobre o Programa Regulariza Pará),https://www.semas.pa.gov.br/legislacao/files/pdf/192140.pdf,
+POL026,decreto estadual,Decreto Estadual nº 1.190/2020 (regulamenta a Lei 8.878/2019),https://www.semas.pa.gov.br/legislacao/files/pdf/16159.pdf,
+POL027,página oficial,Portal Amazônia Agora – Transparência Pública,https://www.amazoniaagora.pa.gov.br/transparencia-publica/,Usar para acessar atos (ex.: decretos e normativos do PEAA).
+POL028,página oficial,SEMAS/PA – portal institucional,https://www.semas.pa.gov.br/,Inserir decretos específicos quando disponíveis.
+POL029,lei,Lei nº 14.601/2023 (institui o PBF),https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm,
+POL029,decreto,Decreto nº 12.064/2024 (regulamenta o PBF),https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12064.htm,
+POL030,resolução,Resolução MDA nº 1/2024 (Regulamento Operativo do PNCF),https://www.gov.br/mda/pt-br/assuntos/terra-brasil/arquivos/resolucao-01-2024-regulamento-operativo-do-pncf-terra-brasil.pdf,
+POL030,resolução,Resolução MDA nº 4/2025 (atualiza regulamento operativo do PNCF),https://www.gov.br/mda/pt-br/assuntos/terra-brasil/arquivos/resolucao-mda-no-4-de-22-de-janeiro-de-2025.pdf,
+POL031,lei,Lei nº 10.420/2002 (institui o Fundo Garantia-Safra),https://www.planalto.gov.br/ccivil_03/leis/2002/L10420.htm,(preencher caso precise de decreto 4.962/2004)
+POL031,decreto,Decreto nº 4.962/2004 (regulamenta a Lei 10.420/2002),https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d4962.htm,
+POL032,decreto,Decreto nº 7.747/2012 (institui a PNGATI),https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7747.htm,
+POL033,decreto,Decreto nº 5.758/2006 (institui o PNAP),https://legislacao.presidencia.gov.br/ficha/?/legisla/legislacao.nsf/Viw_Identificacao/DEC+5.758-2006=&OpenDocument=,Plano Estratégico Nacional de Áreas Protegidas.
+POL034,decreto estadual,Decreto Estadual nº 346/2019 (cria o FAO),https://www.semas.pa.gov.br/legislacao/files/pdf/1953.pdf,
+POL034,decreto estadual,Decreto Estadual nº 3.134/2023 (altera o Decreto nº 346/2019),https://leisestaduais.com.br/pa/decreto-n-3134-2023-para-altera-o-art-5o-do-decreto-estadual-no-346-de-14-de-outubro-de-2019-que-dispoe-sobre-a-estrategia-de-financiamento-denominada-fundo-da-amazonia-oriental-fao-eastern-amazon-fund-eaf-como-instrumento-de-colaboracao-privada-ao-alcance-das-metas-de-politicas-publicas-de-meio-ambiente-e-desenvolvimento-no-estado-do-para,"Quando possível, substituir por link direto do DOE/SEMAS-PA."
+POL034,página oficial,FAO – site oficial,https://www.fundoamazoniaoriental.org.br/,Transparência e normas do programa.
+POL035,página oficial,SEDAP – Portal institucional,https://www.sedap.pa.gov.br/,Inserir atos específicos (leis/decretos) quando definidos pelo Estado.
+POL036,lei,Lei nº 11.959/2009 (Política Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca),https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11959.htm,Marco geral do setor pesqueiro.

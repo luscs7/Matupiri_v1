@@ -1,0 +1,27 @@
+{
+  "profile_code": "PRF-250902205042-AD79",
+  "nome": "Salvaterra",
+  "genero": "Mulher",
+  "segmento": "Pessoa Física",
+  "cpf_cnpj": "",
+  "uf": "MA",
+  "municipio": "210300",
+  "municipio_label": "Capanema (210300)",
+  "uf_display": "MA — Maranhão",
+  "atividade": "Pesca artesanal",
+  "experiencia_anos": 10,
+  "docs": {
+    "CAF/DAP ativa (Agricultura Familiar)": true,
+    "RGP/Registro Pesca": true,
+    "Comprovante de residência": false,
+    "Comprovante de atividade": true,
+    "NIS/PIS": false
+  },
+  "created_at": "2025-09-02T20:50:42.408491+00:00",
+  "updated_at": "2025-09-02T20:50:42.408491+00:00",
+  "docs_presentes": [
+    "CAF/DAP ativa (Agricultura Familiar)",
+    "Comprovante de atividade",
+    "RGP/Registro Pesca"
+  ]
+}

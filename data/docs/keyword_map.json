@@ -1,0 +1,107 @@
+{
+  "cadunico": {
+    "field": "cadunico",
+    "type": "bool",
+    "op": "==",
+    "value": true
+  },
+  "registro geral da pesca": {
+    "field": "registro_rgp",
+    "type": "bool",
+    "op": "==",
+    "value": true
+  },
+  "rgp": {
+    "field": "registro_rgp",
+    "type": "bool",
+    "op": "==",
+    "value": true
+  },
+  "cpf": {
+    "field": "cpf",
+    "type": "bool",
+    "op": "==",
+    "value": true
+  },
+  "cnpj": {
+    "field": "cnpj",
+    "type": "bool",
+    "op": "==",
+    "value": true
+  },
+  "associacao": {
+    "field": "associado",
+    "type": "bool",
+    "op": "==",
+    "value": true
+  },
+  "cooperativa": {
+    "field": "associado",
+    "type": "bool",
+    "op": "==",
+    "value": true
+  },
+  "colonia": {
+    "field": "associado",
+    "type": "bool",
+    "op": "==",
+    "value": true
+  },
+  "mulher": {
+    "field": "mulher",
+    "type": "bool",
+    "op": "==",
+    "value": true
+  },
+  "jovem": {
+    "field": "juventude",
+    "type": "bool",
+    "op": "==",
+    "value": true
+  },
+  "pessoa com deficiencia": {
+    "field": "pessoa_com_deficiencia",
+    "type": "bool",
+    "op": "==",
+    "value": true
+  },
+  "renda": {
+    "field": "renda_mensal_sm",
+    "type": "number",
+    "op": "<=",
+    "value": 3
+  },
+  "pescador": {
+    "field": "atividade",
+    "type": "select_in",
+    "op": "in",
+    "value": [
+      "pescador artesanal",
+      "pescadora artesanal"
+    ]
+  },
+  "aquicultor": {
+    "field": "atividade",
+    "type": "select_in",
+    "op": "in",
+    "value": [
+      "aquicultor(a)"
+    ]
+  },
+  "marisqueiro": {
+    "field": "atividade",
+    "type": "select_in",
+    "op": "in",
+    "value": [
+      "marisqueiro(a)"
+    ]
+  },
+  "agricultor": {
+    "field": "atividade",
+    "type": "select_in",
+    "op": "in",
+    "value": [
+      "agricultor(a) familiar"
+    ]
+  }
+}

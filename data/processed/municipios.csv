@@ -1,0 +1,5572 @@
+mun_id,mun_nome,uf_id,uf_sigla,uf_nome
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,15,PA,Pará
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,15,PA,Pará
+,,23,CE,Ceará
+,,23,CE,Ceará
+,,24,RN,Rio Grande do Norte
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,51,MT,Mato Grosso
+,,12,AC,Acre
+,,52,GO,Goiás
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,26,PE,Pernambuco
+,,24,RN,Rio Grande do Norte
+,,32,ES,Espírito Santo
+,,21,MA,Maranhão
+,,26,PE,Pernambuco
+,,15,PA,Pará
+,,26,PE,Pernambuco
+,,22,PI,Piauí
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,27,AL,Alagoas
+,,22,PI,Piauí
+,,25,PB,Paraíba
+,,50,MS,Mato Grosso do Sul
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,32,ES,Espírito Santo
+,,29,BA,Bahia
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,24,RN,Rio Grande do Norte
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,52,GO,Goiás
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,32,ES,Espírito Santo
+,,25,PB,Paraíba
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,26,PE,Pernambuco
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,23,CE,Ceará
+,,25,PB,Paraíba
+,,50,MS,Mato Grosso do Sul
+,,29,BA,Bahia
+,,21,MA,Maranhão
+,,43,RS,Rio Grande do Sul
+,,32,ES,Espírito Santo
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,24,RN,Rio Grande do Norte
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,26,PE,Pernambuco
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,17,TO,Tocantins
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,11,RO,Rondônia
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,14,RR,Roraima
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,11,RO,Rondônia
+,,51,MT,Mato Grosso
+,,42,SC,Santa Catarina
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,11,RO,Rondônia
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,23,CE,Ceará
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,13,AM,Amazonas
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,11,RO,Rondônia
+,,14,RR,Roraima
+,,50,MS,Mato Grosso do Sul
+,,16,AP,Amapá
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,22,PI,Piauí
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,13,AM,Amazonas
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,28,SE,Sergipe
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,27,AL,Alagoas
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,15,PA,Pará
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,13,AM,Amazonas
+,,17,TO,Tocantins
+,,15,PA,Pará
+,,52,GO,Goiás
+,,15,PA,Pará
+,,21,MA,Maranhão
+,,50,MS,Mato Grosso do Sul
+,,50,MS,Mato Grosso do Sul
+,,42,SC,Santa Catarina
+,,32,ES,Espírito Santo
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,50,MS,Mato Grosso do Sul
+,,26,PE,Pernambuco
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,17,TO,Tocantins
+,,24,RN,Rio Grande do Norte
+,,33,RJ,Rio de Janeiro
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,22,PI,Piauí
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,13,AM,Amazonas
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,50,MS,Mato Grosso do Sul
+,,24,RN,Rio Grande do Norte
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,50,MS,Mato Grosso do Sul
+,,35,SP,São Paulo
+,,33,RJ,Rio de Janeiro
+,,32,ES,Espírito Santo
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,42,SC,Santa Catarina
+,,24,RN,Rio Grande do Norte
+,,29,BA,Bahia
+,,52,GO,Goiás
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,13,AM,Amazonas
+,,23,CE,Ceará
+,,28,SE,Sergipe
+,,50,MS,Mato Grosso do Sul
+,,23,CE,Ceará
+,,42,SC,Santa Catarina
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,28,SE,Sergipe
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,32,ES,Espírito Santo
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,17,TO,Tocantins
+,,17,TO,Tocantins
+,,51,MT,Mato Grosso
+,,17,TO,Tocantins
+,,51,MT,Mato Grosso
+,,17,TO,Tocantins
+,,21,MA,Maranhão
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,21,MA,Maranhão
+,,50,MS,Mato Grosso do Sul
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,27,AL,Alagoas
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,51,MT,Mato Grosso
+,,42,SC,Santa Catarina
+,,25,PB,Paraíba
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,21,MA,Maranhão
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,26,PE,Pernambuco
+,,33,RJ,Rio de Janeiro
+,,41,PR,Paraná
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,28,SE,Sergipe
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,28,SE,Sergipe
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,52,GO,Goiás
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,11,RO,Rondônia
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,33,RJ,Rio de Janeiro
+,,42,SC,Santa Catarina
+,,23,CE,Ceará
+,,22,PI,Piauí
+,,25,PB,Paraíba
+,,22,PI,Piauí
+,,22,PI,Piauí
+,,33,RJ,Rio de Janeiro
+,,17,TO,Tocantins
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,12,AC,Acre
+,,41,PR,Paraná
+,,25,PB,Paraíba
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,27,AL,Alagoas
+,,13,AM,Amazonas
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,32,ES,Espírito Santo
+,,17,TO,Tocantins
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,42,SC,Santa Catarina
+,,23,CE,Ceará
+,,15,PA,Pará
+,,17,TO,Tocantins
+,,13,AM,Amazonas
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,22,PI,Piauí
+,,52,GO,Goiás
+,,21,MA,Maranhão
+,,17,TO,Tocantins
+,,17,TO,Tocantins
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,15,PA,Pará
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,29,BA,Bahia
+,,15,PA,Pará
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,23,CE,Ceará
+,,32,ES,Espírito Santo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,50,MS,Mato Grosso do Sul
+,,41,PR,Paraná
+,,17,TO,Tocantins
+,,15,PA,Pará
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,15,PA,Pará
+,,24,RN,Rio Grande do Norte
+,,13,AM,Amazonas
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,26,PE,Pernambuco
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,27,AL,Alagoas
+,,32,ES,Espírito Santo
+,,27,AL,Alagoas
+,,25,PB,Paraíba
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,21,MA,Maranhão
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,17,TO,Tocantins
+,,33,RJ,Rio de Janeiro
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,28,SE,Sergipe
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,13,AM,Amazonas
+,,21,MA,Maranhão
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,52,GO,Goiás
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,17,TO,Tocantins
+,,23,CE,Ceará
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,50,MS,Mato Grosso do Sul
+,,27,AL,Alagoas
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,50,MS,Mato Grosso do Sul
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,23,CE,Ceará
+,,50,MS,Mato Grosso do Sul
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,15,PA,Pará
+,,25,PB,Paraíba
+,,27,AL,Alagoas
+,,26,PE,Pernambuco
+,,25,PB,Paraíba
+,,22,PI,Piauí
+,,26,PE,Pernambuco
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,22,PI,Piauí
+,,21,MA,Maranhão
+,,42,SC,Santa Catarina
+,,15,PA,Pará
+,,13,AM,Amazonas
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,24,RN,Rio Grande do Norte
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,17,TO,Tocantins
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,13,AM,Amazonas
+,,26,PE,Pernambuco
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,32,ES,Espírito Santo
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,25,PB,Paraíba
+,,14,RR,Roraima
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,43,RS,Rio Grande do Sul
+,,13,AM,Amazonas
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,27,AL,Alagoas
+,,13,AM,Amazonas
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,24,RN,Rio Grande do Norte
+,,26,PE,Pernambuco
+,,50,MS,Mato Grosso do Sul
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,21,MA,Maranhão
+,,33,RJ,Rio de Janeiro
+,,42,SC,Santa Catarina
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,24,RN,Rio Grande do Norte
+,,25,PB,Paraíba
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,21,MA,Maranhão
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,32,ES,Espírito Santo
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,17,TO,Tocantins
+,,15,PA,Pará
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,14,RR,Roraima
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,26,PE,Pernambuco
+,,15,PA,Pará
+,,50,MS,Mato Grosso do Sul
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,52,GO,Goiás
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,28,SE,Sergipe
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,13,AM,Amazonas
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,15,PA,Pará
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,50,MS,Mato Grosso do Sul
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,17,TO,Tocantins
+,,12,AC,Acre
+,,22,PI,Piauí
+,,53,DF,Distrito Federal
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,32,ES,Espírito Santo
+,,26,PE,Pernambuco
+,,24,RN,Rio Grande do Norte
+,,17,TO,Tocantins
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,21,MA,Maranhão
+,,25,PB,Paraíba
+,,22,PI,Piauí
+,,25,PB,Paraíba
+,,28,SE,Sergipe
+,,15,PA,Pará
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,15,PA,Pará
+,,15,PA,Pará
+,,52,GO,Goiás
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,12,AC,Acre
+,,15,PA,Pará
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,52,GO,Goiás
+,,21,MA,Maranhão
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,22,PI,Piauí
+,,22,PI,Piauí
+,,21,MA,Maranhão
+,,52,GO,Goiás
+,,29,BA,Bahia
+,,21,MA,Maranhão
+,,11,RO,Rondônia
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,13,AM,Amazonas
+,,25,PB,Paraíba
+,,50,MS,Mato Grosso do Sul
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,22,PI,Piauí
+,,25,PB,Paraíba
+,,11,RO,Rondônia
+,,26,PE,Pernambuco
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,11,RO,Rondônia
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,29,BA,Bahia
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,15,PA,Pará
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,33,RJ,Rio de Janeiro
+,,43,RS,Rio Grande do Sul
+,,17,TO,Tocantins
+,,26,PE,Pernambuco
+,,32,ES,Espírito Santo
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,27,AL,Alagoas
+,,43,RS,Rio Grande do Sul
+,,11,RO,Rondônia
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,24,RN,Rio Grande do Norte
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,22,PI,Piauí
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,27,AL,Alagoas
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,16,AP,Amapá
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,50,MS,Mato Grosso do Sul
+,,43,RS,Rio Grande do Sul
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,23,CE,Ceará
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,25,PB,Paraíba
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,42,SC,Santa Catarina
+,,27,AL,Alagoas
+,,52,GO,Goiás
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,28,SE,Sergipe
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,27,AL,Alagoas
+,,24,RN,Rio Grande do Norte
+,,50,MS,Mato Grosso do Sul
+,,22,PI,Piauí
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,11,RO,Rondônia
+,,51,MT,Mato Grosso
+,,24,RN,Rio Grande do Norte
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,52,GO,Goiás
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,27,AL,Alagoas
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,11,RO,Rondônia
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,24,RN,Rio Grande do Norte
+,,43,RS,Rio Grande do Sul
+,,28,SE,Sergipe
+,,26,PE,Pernambuco
+,,23,CE,Ceará
+,,28,SE,Sergipe
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,14,RR,Roraima
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,41,PR,Paraná
+,,21,MA,Maranhão
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,13,AM,Amazonas
+,,15,PA,Pará
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,28,SE,Sergipe
+,,27,AL,Alagoas
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,23,CE,Ceará
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,41,PR,Paraná
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,12,AC,Acre
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,14,RR,Roraima
+,,22,PI,Piauí
+,,50,MS,Mato Grosso do Sul
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,13,AM,Amazonas
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,13,AM,Amazonas
+,,13,AM,Amazonas
+,,32,ES,Espírito Santo
+,,23,CE,Ceará
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,28,SE,Sergipe
+,,23,CE,Ceará
+,,17,TO,Tocantins
+,,23,CE,Ceará
+,,23,CE,Ceará
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,28,SE,Sergipe
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,24,RN,Rio Grande do Norte
+,,24,RN,Rio Grande do Norte
+,,23,CE,Ceará
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,14,RR,Roraima
+,,21,MA,Maranhão
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,17,TO,Tocantins
+,,26,PE,Pernambuco
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,41,PR,Paraná
+,,17,TO,Tocantins
+,,43,RS,Rio Grande do Sul
+,,33,RJ,Rio de Janeiro
+,,26,PE,Pernambuco
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,50,MS,Mato Grosso do Sul
+,,15,PA,Pará
+,,51,MT,Mato Grosso
+,,11,RO,Rondônia
+,,52,GO,Goiás
+,,32,ES,Espírito Santo
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,52,GO,Goiás
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,24,RN,Rio Grande do Norte
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,26,PE,Pernambuco
+,,28,SE,Sergipe
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,17,TO,Tocantins
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,11,RO,Rondônia
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,24,RN,Rio Grande do Norte
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,26,PE,Pernambuco
+,,26,PE,Pernambuco
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,17,TO,Tocantins
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,42,SC,Santa Catarina
+,,50,MS,Mato Grosso do Sul
+,,21,MA,Maranhão
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,11,RO,Rondônia
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,21,MA,Maranhão
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,13,AM,Amazonas
+,,22,PI,Piauí
+,,22,PI,Piauí
+,,42,SC,Santa Catarina
+,,22,PI,Piauí
+,,51,MT,Mato Grosso
+,,52,GO,Goiás
+,,29,BA,Bahia
+,,13,AM,Amazonas
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,22,PI,Piauí
+,,15,PA,Pará
+,,32,ES,Espírito Santo
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,17,TO,Tocantins
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,22,PI,Piauí
+,,27,AL,Alagoas
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,11,RO,Rondônia
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,29,BA,Bahia
+,,15,PA,Pará
+,,22,PI,Piauí
+,,32,ES,Espírito Santo
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,15,PA,Pará
+,,25,PB,Paraíba
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,27,AL,Alagoas
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,33,RJ,Rio de Janeiro
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,25,PB,Paraíba
+,,50,MS,Mato Grosso do Sul
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,24,RN,Rio Grande do Norte
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,50,MS,Mato Grosso do Sul
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,22,PI,Piauí
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,26,PE,Pernambuco
+,,50,MS,Mato Grosso do Sul
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,11,RO,Rondônia
+,,42,SC,Santa Catarina
+,,27,AL,Alagoas
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,11,RO,Rondônia
+,,50,MS,Mato Grosso do Sul
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,43,RS,Rio Grande do Sul
+,,50,MS,Mato Grosso do Sul
+,,25,PB,Paraíba
+,,27,AL,Alagoas
+,,23,CE,Ceará
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,17,TO,Tocantins
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,28,SE,Sergipe
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,23,CE,Ceará
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,12,AC,Acre
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,51,MT,Mato Grosso
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,11,RO,Rondônia
+,,52,GO,Goiás
+,,26,PE,Pernambuco
+,,15,PA,Pará
+,,28,SE,Sergipe
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,15,PA,Pará
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,24,RN,Rio Grande do Norte
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,25,PB,Paraíba
+,,15,PA,Pará
+,,22,PI,Piauí
+,,15,PA,Pará
+,,15,PA,Pará
+,,21,MA,Maranhão
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,16,AP,Amapá
+,,52,GO,Goiás
+,,25,PB,Paraíba
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,51,MT,Mato Grosso
+,,50,MS,Mato Grosso do Sul
+,,23,CE,Ceará
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,28,SE,Sergipe
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,50,MS,Mato Grosso do Sul
+,,17,TO,Tocantins
+,,43,RS,Rio Grande do Sul
+,,27,AL,Alagoas
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,22,PI,Piauí
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,41,PR,Paraná
+,,50,MS,Mato Grosso do Sul
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,50,MS,Mato Grosso do Sul
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,24,RN,Rio Grande do Norte
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,33,RJ,Rio de Janeiro
+,,25,PB,Paraíba
+,,17,TO,Tocantins
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,32,ES,Espírito Santo
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,13,AM,Amazonas
+,,50,MS,Mato Grosso do Sul
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,24,RN,Rio Grande do Norte
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,13,AM,Amazonas
+,,12,AC,Acre
+,,24,RN,Rio Grande do Norte
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,17,TO,Tocantins
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,11,RO,Rondônia
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,28,SE,Sergipe
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,26,PE,Pernambuco
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,15,PA,Pará
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,50,MS,Mato Grosso do Sul
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,12,AC,Acre
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,27,AL,Alagoas
+,,28,SE,Sergipe
+,,26,PE,Pernambuco
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,27,AL,Alagoas
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,21,MA,Maranhão
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,16,AP,Amapá
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,50,MS,Mato Grosso do Sul
+,,17,TO,Tocantins
+,,51,MT,Mato Grosso
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,52,GO,Goiás
+,,27,AL,Alagoas
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,22,PI,Piauí
+,,26,PE,Pernambuco
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,15,PA,Pará
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,13,AM,Amazonas
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,42,SC,Santa Catarina
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,26,PE,Pernambuco
+,,28,SE,Sergipe
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,32,ES,Espírito Santo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,42,SC,Santa Catarina
+,,26,PE,Pernambuco
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,26,PE,Pernambuco
+,,28,SE,Sergipe
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,15,PA,Pará
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,28,SE,Sergipe
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,27,AL,Alagoas
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,50,MS,Mato Grosso do Sul
+,,26,PE,Pernambuco
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,15,PA,Pará
+,,52,GO,Goiás
+,,24,RN,Rio Grande do Norte
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,21,MA,Maranhão
+,,42,SC,Santa Catarina
+,,24,RN,Rio Grande do Norte
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,11,RO,Rondônia
+,,32,ES,Espírito Santo
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,21,MA,Maranhão
+,,28,SE,Sergipe
+,,21,MA,Maranhão
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,23,CE,Ceará
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,23,CE,Ceará
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,32,ES,Espírito Santo
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,13,AM,Amazonas
+,,11,RO,Rondônia
+,,29,BA,Bahia
+,,24,RN,Rio Grande do Norte
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,33,RJ,Rio de Janeiro
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,52,GO,Goiás
+,,23,CE,Ceará
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,32,ES,Espírito Santo
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,50,MS,Mato Grosso do Sul
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,15,PA,Pará
+,,17,TO,Tocantins
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,23,CE,Ceará
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,13,AM,Amazonas
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,27,AL,Alagoas
+,,32,ES,Espírito Santo
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,23,CE,Ceará
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,43,RS,Rio Grande do Sul
+,,26,PE,Pernambuco
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,32,ES,Espírito Santo
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,32,ES,Espírito Santo
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,27,AL,Alagoas
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,15,PA,Pará
+,,15,PA,Pará
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,27,AL,Alagoas
+,,43,RS,Rio Grande do Sul
+,,33,RJ,Rio de Janeiro
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,50,MS,Mato Grosso do Sul
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,28,SE,Sergipe
+,,26,PE,Pernambuco
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,28,SE,Sergipe
+,,51,MT,Mato Grosso
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,15,PA,Pará
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,50,MS,Mato Grosso do Sul
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,51,MT,Mato Grosso
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,13,AM,Amazonas
+,,15,PA,Pará
+,,26,PE,Pernambuco
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,26,PE,Pernambuco
+,,24,RN,Rio Grande do Norte
+,,23,CE,Ceará
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,14,RR,Roraima
+,,23,CE,Ceará
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,13,AM,Amazonas
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,15,PA,Pará
+,,32,ES,Espírito Santo
+,,22,PI,Piauí
+,,52,GO,Goiás
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,28,SE,Sergipe
+,,28,SE,Sergipe
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,52,GO,Goiás
+,,28,SE,Sergipe
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,29,BA,Bahia
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,13,AM,Amazonas
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,32,ES,Espírito Santo
+,,29,BA,Bahia
+,,33,RJ,Rio de Janeiro
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,23,CE,Ceará
+,,22,PI,Piauí
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,15,PA,Pará
+,,24,RN,Rio Grande do Norte
+,,52,GO,Goiás
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,33,RJ,Rio de Janeiro
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,13,AM,Amazonas
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,33,RJ,Rio de Janeiro
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,32,ES,Espírito Santo
+,,41,PR,Paraná
+,,33,RJ,Rio de Janeiro
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,13,AM,Amazonas
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,17,TO,Tocantins
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,50,MS,Mato Grosso do Sul
+,,17,TO,Tocantins
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,28,SE,Sergipe
+,,25,PB,Paraíba
+,,11,RO,Rondônia
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,50,MS,Mato Grosso do Sul
+,,26,PE,Pernambuco
+,,32,ES,Espírito Santo
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,43,RS,Rio Grande do Sul
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,16,AP,Amapá
+,,52,GO,Goiás
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,32,ES,Espírito Santo
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,50,MS,Mato Grosso do Sul
+,,52,GO,Goiás
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,26,PE,Pernambuco
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,27,AL,Alagoas
+,,15,PA,Pará
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,43,RS,Rio Grande do Sul
+,,15,PA,Pará
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,32,ES,Espírito Santo
+,,23,CE,Ceará
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,24,RN,Rio Grande do Norte
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,28,SE,Sergipe
+,,33,RJ,Rio de Janeiro
+,,24,RN,Rio Grande do Norte
+,,41,PR,Paraná
+,,28,SE,Sergipe
+,,31,MG,Minas Gerais
+,,50,MS,Mato Grosso do Sul
+,,41,PR,Paraná
+,,13,AM,Amazonas
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,42,SC,Santa Catarina
+,,50,MS,Mato Grosso do Sul
+,,27,AL,Alagoas
+,,23,CE,Ceará
+,,50,MS,Mato Grosso do Sul
+,,41,PR,Paraná
+,,24,RN,Rio Grande do Norte
+,,24,RN,Rio Grande do Norte
+,,22,PI,Piauí
+,,24,RN,Rio Grande do Norte
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,11,RO,Rondônia
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,50,MS,Mato Grosso do Sul
+,,23,CE,Ceará
+,,21,MA,Maranhão
+,,26,PE,Pernambuco
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,17,TO,Tocantins
+,,52,GO,Goiás
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,32,ES,Espírito Santo
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,23,CE,Ceará
+,,11,RO,Rondônia
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,24,RN,Rio Grande do Norte
+,,22,PI,Piauí
+,,24,RN,Rio Grande do Norte
+,,29,BA,Bahia
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,26,PE,Pernambuco
+,,22,PI,Piauí
+,,41,PR,Paraná
+,,25,PB,Paraíba
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,12,AC,Acre
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,24,RN,Rio Grande do Norte
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,51,MT,Mato Grosso
+,,25,PB,Paraíba
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,22,PI,Piauí
+,,23,CE,Ceará
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,24,RN,Rio Grande do Norte
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,27,AL,Alagoas
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,27,AL,Alagoas
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,22,PI,Piauí
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,13,AM,Amazonas
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,15,PA,Pará
+,,51,MT,Mato Grosso
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,13,AM,Amazonas
+,,50,MS,Mato Grosso do Sul
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,13,AM,Amazonas
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,50,MS,Mato Grosso do Sul
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,28,SE,Sergipe
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,25,PB,Paraíba
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,27,AL,Alagoas
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,25,PB,Paraíba
+,,26,PE,Pernambuco
+,,24,RN,Rio Grande do Norte
+,,22,PI,Piauí
+,,24,RN,Rio Grande do Norte
+,,22,PI,Piauí
+,,26,PE,Pernambuco
+,,21,MA,Maranhão
+,,26,PE,Pernambuco
+,,22,PI,Piauí
+,,22,PI,Piauí
+,,17,TO,Tocantins
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,21,MA,Maranhão
+,,24,RN,Rio Grande do Norte
+,,29,BA,Bahia
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,42,SC,Santa Catarina
+,,50,MS,Mato Grosso do Sul
+,,29,BA,Bahia
+,,33,RJ,Rio de Janeiro
+,,43,RS,Rio Grande do Sul
+,,17,TO,Tocantins
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,24,RN,Rio Grande do Norte
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,32,ES,Espírito Santo
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,16,AP,Amapá
+,,35,SP,São Paulo
+,,28,SE,Sergipe
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,17,TO,Tocantins
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,27,AL,Alagoas
+,,15,PA,Pará
+,,23,CE,Ceará
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,32,ES,Espírito Santo
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,17,TO,Tocantins
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,25,PB,Paraíba
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,52,GO,Goiás
+,,22,PI,Piauí
+,,17,TO,Tocantins
+,,33,RJ,Rio de Janeiro
+,,24,RN,Rio Grande do Norte
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,28,SE,Sergipe
+,,16,AP,Amapá
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,11,RO,Rondônia
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,42,SC,Santa Catarina
+,,33,RJ,Rio de Janeiro
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,15,PA,Pará
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,15,PA,Pará
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,33,RJ,Rio de Janeiro
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,42,SC,Santa Catarina
+,,27,AL,Alagoas
+,,24,RN,Rio Grande do Norte
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,28,SE,Sergipe
+,,28,SE,Sergipe
+,,41,PR,Paraná
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,13,AM,Amazonas
+,,25,PB,Paraíba
+,,13,AM,Amazonas
+,,26,PE,Pernambuco
+,,13,AM,Amazonas
+,,12,AC,Acre
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,13,AM,Amazonas
+,,22,PI,Piauí
+,,41,PR,Paraná
+,,12,AC,Acre
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,52,GO,Goiás
+,,13,AM,Amazonas
+,,15,PA,Pará
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,50,MS,Mato Grosso do Sul
+,,15,PA,Pará
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,27,AL,Alagoas
+,,29,BA,Bahia
+,,26,PE,Pernambuco
+,,21,MA,Maranhão
+,,23,CE,Ceará
+,,21,MA,Maranhão
+,,15,PA,Pará
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,32,ES,Espírito Santo
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,27,AL,Alagoas
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,24,RN,Rio Grande do Norte
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,22,PI,Piauí
+,,22,PI,Piauí
+,,41,PR,Paraná
+,,27,AL,Alagoas
+,,32,ES,Espírito Santo
+,,12,AC,Acre
+,,42,SC,Santa Catarina
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,17,TO,Tocantins
+,,35,SP,São Paulo
+,,27,AL,Alagoas
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,28,SE,Sergipe
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,22,PI,Piauí
+,,25,PB,Paraíba
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,27,AL,Alagoas
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,17,TO,Tocantins
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,21,MA,Maranhão
+,,25,PB,Paraíba
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,27,AL,Alagoas
+,,51,MT,Mato Grosso
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,13,AM,Amazonas
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,23,CE,Ceará
+,,24,RN,Rio Grande do Norte
+,,43,RS,Rio Grande do Sul
+,,16,AP,Amapá
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,15,PA,Pará
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,24,RN,Rio Grande do Norte
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,33,RJ,Rio de Janeiro
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,21,MA,Maranhão
+,,23,CE,Ceará
+,,22,PI,Piauí
+,,52,GO,Goiás
+,,32,ES,Espírito Santo
+,,52,GO,Goiás
+,,27,AL,Alagoas
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,11,RO,Rondônia
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,33,RJ,Rio de Janeiro
+,,17,TO,Tocantins
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,50,MS,Mato Grosso do Sul
+,,21,MA,Maranhão
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,11,RO,Rondônia
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,15,PA,Pará
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,28,SE,Sergipe
+,,15,PA,Pará
+,,15,PA,Pará
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,24,RN,Rio Grande do Norte
+,,43,RS,Rio Grande do Sul
+,,24,RN,Rio Grande do Norte
+,,15,PA,Pará
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,28,SE,Sergipe
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,24,RN,Rio Grande do Norte
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,11,RO,Rondônia
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,27,AL,Alagoas
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,26,PE,Pernambuco
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,23,CE,Ceará
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,22,PI,Piauí
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,24,RN,Rio Grande do Norte
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,15,PA,Pará
+,,14,RR,Roraima
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,32,ES,Espírito Santo
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,50,MS,Mato Grosso do Sul
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,32,ES,Espírito Santo
+,,29,BA,Bahia
+,,32,ES,Espírito Santo
+,,31,MG,Minas Gerais
+,,28,SE,Sergipe
+,,27,AL,Alagoas
+,,22,PI,Piauí
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,17,TO,Tocantins
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,42,SC,Santa Catarina
+,,50,MS,Mato Grosso do Sul
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,26,PE,Pernambuco
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,22,PI,Piauí
+,,52,GO,Goiás
+,,28,SE,Sergipe
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,13,AM,Amazonas
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,33,RJ,Rio de Janeiro
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,50,MS,Mato Grosso do Sul
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,24,RN,Rio Grande do Norte
+,,33,RJ,Rio de Janeiro
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,14,RR,Roraima
+,,51,MT,Mato Grosso
+,,28,SE,Sergipe
+,,28,SE,Sergipe
+,,28,SE,Sergipe
+,,41,PR,Paraná
+,,28,SE,Sergipe
+,,22,PI,Piauí
+,,51,MT,Mato Grosso
+,,28,SE,Sergipe
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,50,MS,Mato Grosso do Sul
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,50,MS,Mato Grosso do Sul
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,11,RO,Rondônia
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,52,GO,Goiás
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,15,PA,Pará
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,33,RJ,Rio de Janeiro
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,33,RJ,Rio de Janeiro
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,15,PA,Pará
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,11,RO,Rondônia
+,,51,MT,Mato Grosso
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,51,MT,Mato Grosso
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,51,MT,Mato Grosso
+,,17,TO,Tocantins
+,,25,PB,Paraíba
+,,23,CE,Ceará
+,,21,MA,Maranhão
+,,13,AM,Amazonas
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,43,RS,Rio Grande do Sul
+,,17,TO,Tocantins
+,,23,CE,Ceará
+,,41,PR,Paraná
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,15,PA,Pará
+,,42,SC,Santa Catarina
+,,51,MT,Mato Grosso
+,,11,RO,Rondônia
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,52,GO,Goiás
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,17,TO,Tocantins
+,,13,AM,Amazonas
+,,17,TO,Tocantins
+,,13,AM,Amazonas
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,51,MT,Mato Grosso
+,,11,RO,Rondônia
+,,50,MS,Mato Grosso do Sul
+,,41,PR,Paraná
+,,17,TO,Tocantins
+,,27,AL,Alagoas
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,52,GO,Goiás
+,,15,PA,Pará
+,,15,PA,Pará
+,,22,PI,Piauí
+,,51,MT,Mato Grosso
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,15,PA,Pará
+,,16,AP,Amapá
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,21,MA,Maranhão
+,,27,AL,Alagoas
+,,24,RN,Rio Grande do Norte
+,,27,AL,Alagoas
+,,22,PI,Piauí
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,26,PE,Pernambuco
+,,26,PE,Pernambuco
+,,23,CE,Ceará
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,15,PA,Pará
+,,29,BA,Bahia
+,,26,PE,Pernambuco
+,,15,PA,Pará
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,11,RO,Rondônia
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,23,CE,Ceará
+,,14,RR,Roraima
+,,23,CE,Ceará
+,,28,SE,Sergipe
+,,21,MA,Maranhão
+,,23,CE,Ceará
+,,23,CE,Ceará
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,27,AL,Alagoas
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,15,PA,Pará
+,,23,CE,Ceará
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,23,CE,Ceará
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,27,AL,Alagoas
+,,22,PI,Piauí
+,,21,MA,Maranhão
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,26,PE,Pernambuco
+,,17,TO,Tocantins
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,43,RS,Rio Grande do Sul
+,,32,ES,Espírito Santo
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,33,RJ,Rio de Janeiro
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,50,MS,Mato Grosso do Sul
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,24,RN,Rio Grande do Norte
+,,17,TO,Tocantins
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,50,MS,Mato Grosso do Sul
+,,52,GO,Goiás
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,50,MS,Mato Grosso do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,33,RJ,Rio de Janeiro
+,,24,RN,Rio Grande do Norte
+,,15,PA,Pará
+,,52,GO,Goiás
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,11,RO,Rondônia
+,,24,RN,Rio Grande do Norte
+,,27,AL,Alagoas
+,,13,AM,Amazonas
+,,29,BA,Bahia
+,,27,AL,Alagoas
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,22,PI,Piauí
+,,24,RN,Rio Grande do Norte
+,,26,PE,Pernambuco
+,,21,MA,Maranhão
+,,43,RS,Rio Grande do Sul
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,25,PB,Paraíba
+,,21,MA,Maranhão
+,,22,PI,Piauí
+,,26,PE,Pernambuco
+,,27,AL,Alagoas
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,24,RN,Rio Grande do Norte
+,,33,RJ,Rio de Janeiro
+,,29,BA,Bahia
+,,15,PA,Pará
+,,17,TO,Tocantins
+,,22,PI,Piauí
+,,24,RN,Rio Grande do Norte
+,,26,PE,Pernambuco
+,,13,AM,Amazonas
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,25,PB,Paraíba
+,,26,PE,Pernambuco
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,27,AL,Alagoas
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,25,PB,Paraíba
+,,16,AP,Amapá
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,25,PB,Paraíba
+,,28,SE,Sergipe
+,,24,RN,Rio Grande do Norte
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,28,SE,Sergipe
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,24,RN,Rio Grande do Norte
+,,32,ES,Espírito Santo
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,50,MS,Mato Grosso do Sul
+,,22,PI,Piauí
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,17,TO,Tocantins
+,,15,PA,Pará
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,24,RN,Rio Grande do Norte
+,,27,AL,Alagoas
+,,42,SC,Santa Catarina
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,26,PE,Pernambuco
+,,26,PE,Pernambuco
+,,42,SC,Santa Catarina
+,,26,PE,Pernambuco
+,,52,GO,Goiás
+,,33,RJ,Rio de Janeiro
+,,27,AL,Alagoas
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,15,PA,Pará
+,,22,PI,Piauí
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,27,AL,Alagoas
+,,25,PB,Paraíba
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,11,RO,Rondônia
+,,22,PI,Piauí
+,,11,RO,Rondônia
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,27,AL,Alagoas
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,17,TO,Tocantins
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,28,SE,Sergipe
+,,33,RJ,Rio de Janeiro
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,32,ES,Espírito Santo
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,33,RJ,Rio de Janeiro
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,28,SE,Sergipe
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,27,AL,Alagoas
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,17,TO,Tocantins
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,23,CE,Ceará
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,17,TO,Tocantins
+,,32,ES,Espírito Santo
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,12,AC,Acre
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,21,MA,Maranhão
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,27,AL,Alagoas
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,28,SE,Sergipe
+,,28,SE,Sergipe
+,,29,BA,Bahia
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,26,PE,Pernambuco
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,41,PR,Paraná
+,,50,MS,Mato Grosso do Sul
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,17,TO,Tocantins
+,,42,SC,Santa Catarina
+,,17,TO,Tocantins
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,32,ES,Espírito Santo
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,33,RJ,Rio de Janeiro
+,,41,PR,Paraná
+,,24,RN,Rio Grande do Norte
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,52,GO,Goiás
+,,22,PI,Piauí
+,,12,AC,Acre
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,22,PI,Piauí
+,,17,TO,Tocantins
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,27,AL,Alagoas
+,,28,SE,Sergipe
+,,15,PA,Pará
+,,27,AL,Alagoas
+,,24,RN,Rio Grande do Norte
+,,51,MT,Mato Grosso
+,,51,MT,Mato Grosso
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,16,AP,Amapá
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,50,MS,Mato Grosso do Sul
+,,17,TO,Tocantins
+,,33,RJ,Rio de Janeiro
+,,27,AL,Alagoas
+,,41,PR,Paraná
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,11,RO,Rondônia
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,12,AC,Acre
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,16,AP,Amapá
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,17,TO,Tocantins
+,,15,PA,Pará
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,13,AM,Amazonas
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,11,RO,Rondônia
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,26,PE,Pernambuco
+,,11,RO,Rondônia
+,,51,MT,Mato Grosso
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,25,PB,Paraíba
+,,52,GO,Goiás
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,28,SE,Sergipe
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,17,TO,Tocantins
+,,24,RN,Rio Grande do Norte
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,15,PA,Pará
+,,33,RJ,Rio de Janeiro
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,27,AL,Alagoas
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,33,RJ,Rio de Janeiro
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,26,PE,Pernambuco
+,,52,GO,Goiás
+,,33,RJ,Rio de Janeiro
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,25,PB,Paraíba
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,23,CE,Ceará
+,,23,CE,Ceará
+,,23,CE,Ceará
+,,24,RN,Rio Grande do Norte
+,,24,RN,Rio Grande do Norte
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,15,PA,Pará
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,28,SE,Sergipe
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,24,RN,Rio Grande do Norte
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,24,RN,Rio Grande do Norte
+,,28,SE,Sergipe
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,21,MA,Maranhão
+,,50,MS,Mato Grosso do Sul
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,22,PI,Piauí
+,,28,SE,Sergipe
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,32,ES,Espírito Santo
+,,41,PR,Paraná
+,,33,RJ,Rio de Janeiro
+,,41,PR,Paraná
+,,51,MT,Mato Grosso
+,,12,AC,Acre
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,50,MS,Mato Grosso do Sul
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,35,SP,São Paulo
+,,11,RO,Rondônia
+,,17,TO,Tocantins
+,,42,SC,Santa Catarina
+,,33,RJ,Rio de Janeiro
+,,33,RJ,Rio de Janeiro
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,33,RJ,Rio de Janeiro
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,24,RN,Rio Grande do Norte
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,42,SC,Santa Catarina
+,,50,MS,Mato Grosso do Sul
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,13,AM,Amazonas
+,,52,GO,Goiás
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,17,TO,Tocantins
+,,25,PB,Paraíba
+,,52,GO,Goiás
+,,50,MS,Mato Grosso do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,50,MS,Mato Grosso do Sul
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,24,RN,Rio Grande do Norte
+,,12,AC,Acre
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,11,RO,Rondônia
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,15,PA,Pará
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,14,RR,Roraima
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,28,SE,Sergipe
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,23,CE,Ceará
+,,24,RN,Rio Grande do Norte
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,26,PE,Pernambuco
+,,25,PB,Paraíba
+,,28,SE,Sergipe
+,,25,PB,Paraíba
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,15,PA,Pará
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,15,PA,Pará
+,,21,MA,Maranhão
+,,17,TO,Tocantins
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,51,MT,Mato Grosso
+,,42,SC,Santa Catarina
+,,25,PB,Paraíba
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,26,PE,Pernambuco
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,25,PB,Paraíba
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,25,PB,Paraíba
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,13,AM,Amazonas
+,,41,PR,Paraná
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,25,PB,Paraíba
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,28,SE,Sergipe
+,,27,AL,Alagoas
+,,15,PA,Pará
+,,21,MA,Maranhão
+,,11,RO,Rondônia
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,24,RN,Rio Grande do Norte
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,33,RJ,Rio de Janeiro
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,50,MS,Mato Grosso do Sul
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,42,SC,Santa Catarina
+,,28,SE,Sergipe
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,12,AC,Acre
+,,42,SC,Santa Catarina
+,,17,TO,Tocantins
+,,35,SP,São Paulo
+,,32,ES,Espírito Santo
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,26,PE,Pernambuco
+,,42,SC,Santa Catarina
+,,51,MT,Mato Grosso
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,16,AP,Amapá
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,15,PA,Pará
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,24,RN,Rio Grande do Norte
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,28,SE,Sergipe
+,,24,RN,Rio Grande do Norte
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,15,PA,Pará
+,,15,PA,Pará
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,51,MT,Mato Grosso
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,28,SE,Sergipe
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,29,BA,Bahia
+,,51,MT,Mato Grosso
+,,22,PI,Piauí
+,,33,RJ,Rio de Janeiro
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,13,AM,Amazonas
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,15,PA,Pará
+,,21,MA,Maranhão
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,21,MA,Maranhão
+,,26,PE,Pernambuco
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,17,TO,Tocantins
+,,24,RN,Rio Grande do Norte
+,,26,PE,Pernambuco
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,15,PA,Pará
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,28,SE,Sergipe
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,28,SE,Sergipe
+,,25,PB,Paraíba
+,,42,SC,Santa Catarina
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,21,MA,Maranhão
+,,15,PA,Pará
+,,25,PB,Paraíba
+,,21,MA,Maranhão
+,,32,ES,Espírito Santo
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,11,RO,Rondônia
+,,29,BA,Bahia
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,51,MT,Mato Grosso
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,17,TO,Tocantins
+,,15,PA,Pará
+,,24,RN,Rio Grande do Norte
+,,33,RJ,Rio de Janeiro
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,28,SE,Sergipe
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,52,GO,Goiás
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,11,RO,Rondônia
+,,21,MA,Maranhão
+,,24,RN,Rio Grande do Norte
+,,15,PA,Pará
+,,22,PI,Piauí
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,13,AM,Amazonas
+,,32,ES,Espírito Santo
+,,50,MS,Mato Grosso do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,24,RN,Rio Grande do Norte
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,21,MA,Maranhão
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,14,RR,Roraima
+,,33,RJ,Rio de Janeiro
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,33,RJ,Rio de Janeiro
+,,15,PA,Pará
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,22,PI,Piauí
+,,41,PR,Paraná
+,,25,PB,Paraíba
+,,21,MA,Maranhão
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,21,MA,Maranhão
+,,42,SC,Santa Catarina
+,,25,PB,Paraíba
+,,41,PR,Paraná
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,25,PB,Paraíba
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,21,MA,Maranhão
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,32,ES,Espírito Santo
+,,24,RN,Rio Grande do Norte
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,22,PI,Piauí
+,,51,MT,Mato Grosso
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,43,RS,Rio Grande do Sul
+,,33,RJ,Rio de Janeiro
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,41,PR,Paraná
+,,51,MT,Mato Grosso
+,,25,PB,Paraíba
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,52,GO,Goiás
+,,23,CE,Ceará
+,,22,PI,Piauí
+,,27,AL,Alagoas
+,,21,MA,Maranhão
+,,14,RR,Roraima
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,32,ES,Espírito Santo
+,,21,MA,Maranhão
+,,41,PR,Paraná
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,28,SE,Sergipe
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,22,PI,Piauí
+,,24,RN,Rio Grande do Norte
+,,15,PA,Pará
+,,11,RO,Rondônia
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,52,GO,Goiás
+,,22,PI,Piauí
+,,17,TO,Tocantins
+,,27,AL,Alagoas
+,,27,AL,Alagoas
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,13,AM,Amazonas
+,,24,RN,Rio Grande do Norte
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,33,RJ,Rio de Janeiro
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,22,PI,Piauí
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,17,TO,Tocantins
+,,27,AL,Alagoas
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,13,AM,Amazonas
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,52,GO,Goiás
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,17,TO,Tocantins
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,26,PE,Pernambuco
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,33,RJ,Rio de Janeiro
+,,15,PA,Pará
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,27,AL,Alagoas
+,,21,MA,Maranhão
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,50,MS,Mato Grosso do Sul
+,,31,MG,Minas Gerais
+,,12,AC,Acre
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,12,AC,Acre
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,27,AL,Alagoas
+,,23,CE,Ceará
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,11,RO,Rondônia
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,32,ES,Espírito Santo
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,25,PB,Paraíba
+,,31,MG,Minas Gerais
+,,24,RN,Rio Grande do Norte
+,,24,RN,Rio Grande do Norte
+,,16,AP,Amapá
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,24,RN,Rio Grande do Norte
+,,51,MT,Mato Grosso
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,24,RN,Rio Grande do Norte
+,,24,RN,Rio Grande do Norte
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,50,MS,Mato Grosso do Sul
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,50,MS,Mato Grosso do Sul
+,,22,PI,Piauí
+,,33,RJ,Rio de Janeiro
+,,52,GO,Goiás
+,,17,TO,Tocantins
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,13,AM,Amazonas
+,,31,MG,Minas Gerais
+,,28,SE,Sergipe
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,28,SE,Sergipe
+,,52,GO,Goiás
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,24,RN,Rio Grande do Norte
+,,21,MA,Maranhão
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,22,PI,Piauí
+,,25,PB,Paraíba
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,23,CE,Ceará
+,,42,SC,Santa Catarina
+,,50,MS,Mato Grosso do Sul
+,,32,ES,Espírito Santo
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,25,PB,Paraíba
+,,15,PA,Pará
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,17,TO,Tocantins
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,33,RJ,Rio de Janeiro
+,,26,PE,Pernambuco
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,13,AM,Amazonas
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,24,RN,Rio Grande do Norte
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,26,PE,Pernambuco
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,25,PB,Paraíba
+,,50,MS,Mato Grosso do Sul
+,,35,SP,São Paulo
+,,17,TO,Tocantins
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,17,TO,Tocantins
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,17,TO,Tocantins
+,,26,PE,Pernambuco
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,23,CE,Ceará
+,,22,PI,Piauí
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,24,RN,Rio Grande do Norte
+,,51,MT,Mato Grosso
+,,33,RJ,Rio de Janeiro
+,,29,BA,Bahia
+,,27,AL,Alagoas
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,13,AM,Amazonas
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,27,AL,Alagoas
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,26,PE,Pernambuco
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,50,MS,Mato Grosso do Sul
+,,35,SP,São Paulo
+,,12,AC,Acre
+,,23,CE,Ceará
+,,16,AP,Amapá
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,13,AM,Amazonas
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,11,RO,Rondônia
+,,23,CE,Ceará
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,28,SE,Sergipe
+,,24,RN,Rio Grande do Norte
+,,24,RN,Rio Grande do Norte
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,27,AL,Alagoas
+,,50,MS,Mato Grosso do Sul
+,,22,PI,Piauí
+,,52,GO,Goiás
+,,33,RJ,Rio de Janeiro
+,,26,PE,Pernambuco
+,,52,GO,Goiás
+,,15,PA,Pará
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,26,PE,Pernambuco
+,,29,BA,Bahia
+,,51,MT,Mato Grosso
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,11,RO,Rondônia
+,,23,CE,Ceará
+,,41,PR,Paraná
+,,24,RN,Rio Grande do Norte
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,24,RN,Rio Grande do Norte
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,28,SE,Sergipe
+,,17,TO,Tocantins
+,,17,TO,Tocantins
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,28,SE,Sergipe
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,13,AM,Amazonas
+,,26,PE,Pernambuco
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,24,RN,Rio Grande do Norte
+,,35,SP,São Paulo
+,,15,PA,Pará
+,,26,PE,Pernambuco
+,,27,AL,Alagoas
+,,15,PA,Pará
+,,23,CE,Ceará
+,,33,RJ,Rio de Janeiro
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,50,MS,Mato Grosso do Sul
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,33,RJ,Rio de Janeiro
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,52,GO,Goiás
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,26,PE,Pernambuco
+,,25,PB,Paraíba
+,,24,RN,Rio Grande do Norte
+,,21,MA,Maranhão
+,,52,GO,Goiás
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,29,BA,Bahia
+,,15,PA,Pará
+,,43,RS,Rio Grande do Sul
+,,15,PA,Pará
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,41,PR,Paraná
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,26,PE,Pernambuco
+,,41,PR,Paraná
+,,35,SP,São Paulo
+,,17,TO,Tocantins
+,,17,TO,Tocantins
+,,21,MA,Maranhão
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,41,PR,Paraná
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,21,MA,Maranhão
+,,13,AM,Amazonas
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,14,RR,Roraima
+,,52,GO,Goiás
+,,25,PB,Paraíba
+,,15,PA,Pará
+,,23,CE,Ceará
+,,24,RN,Rio Grande do Norte
+,,28,SE,Sergipe
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,23,CE,Ceará
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,51,MT,Mato Grosso
+,,27,AL,Alagoas
+,,35,SP,São Paulo
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,24,RN,Rio Grande do Norte
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,42,SC,Santa Catarina
+,,23,CE,Ceará
+,,31,MG,Minas Gerais
+,,13,AM,Amazonas
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,13,AM,Amazonas
+,,43,RS,Rio Grande do Sul
+,,23,CE,Ceará
+,,11,RO,Rondônia
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,42,SC,Santa Catarina
+,,52,GO,Goiás
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,51,MT,Mato Grosso
+,,11,RO,Rondônia
+,,11,RO,Rondônia
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,33,RJ,Rio de Janeiro
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,52,GO,Goiás
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,32,ES,Espírito Santo
+,,31,MG,Minas Gerais
+,,42,SC,Santa Catarina
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,23,CE,Ceará
+,,33,RJ,Rio de Janeiro
+,,24,RN,Rio Grande do Norte
+,,25,PB,Paraíba
+,,23,CE,Ceará
+,,22,PI,Piauí
+,,31,MG,Minas Gerais
+,,29,BA,Bahia
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,51,MT,Mato Grosso
+,,29,BA,Bahia
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,32,ES,Espírito Santo
+,,24,RN,Rio Grande do Norte
+,,41,PR,Paraná
+,,26,PE,Pernambuco
+,,51,MT,Mato Grosso
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,24,RN,Rio Grande do Norte
+,,41,PR,Paraná
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,26,PE,Pernambuco
+,,26,PE,Pernambuco
+,,31,MG,Minas Gerais
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,32,ES,Espírito Santo
+,,21,MA,Maranhão
+,,52,GO,Goiás
+,,26,PE,Pernambuco
+,,43,RS,Rio Grande do Sul
+,,50,MS,Mato Grosso do Sul
+,,52,GO,Goiás
+,,31,MG,Minas Gerais
+,,27,AL,Alagoas
+,,24,RN,Rio Grande do Norte
+,,23,CE,Ceará
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,31,MG,Minas Gerais
+,,25,PB,Paraíba
+,,15,PA,Pará
+,,51,MT,Mato Grosso
+,,52,GO,Goiás
+,,24,RN,Rio Grande do Norte
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,22,PI,Piauí
+,,43,RS,Rio Grande do Sul
+,,21,MA,Maranhão
+,,32,ES,Espírito Santo
+,,52,GO,Goiás
+,,51,MT,Mato Grosso
+,,32,ES,Espírito Santo
+,,32,ES,Espírito Santo
+,,11,RO,Rondônia
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,31,MG,Minas Gerais
+,,15,PA,Pará
+,,43,RS,Rio Grande do Sul
+,,35,SP,São Paulo
+,,43,RS,Rio Grande do Sul
+,,43,RS,Rio Grande do Sul
+,,25,PB,Paraíba
+,,42,SC,Santa Catarina
+,,32,ES,Espírito Santo
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,26,PE,Pernambuco
+,,16,AP,Amapá
+,,21,MA,Maranhão
+,,15,PA,Pará
+,,41,PR,Paraná
+,,21,MA,Maranhão
+,,31,MG,Minas Gerais
+,,33,RJ,Rio de Janeiro
+,,35,SP,São Paulo
+,,35,SP,São Paulo
+,,29,BA,Bahia
+,,22,PI,Piauí
+,,17,TO,Tocantins
+,,29,BA,Bahia
+,,31,MG,Minas Gerais
+,,41,PR,Paraná
+,,29,BA,Bahia
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,17,TO,Tocantins
+,,41,PR,Paraná
+,,43,RS,Rio Grande do Sul
+,,42,SC,Santa Catarina
+,,12,AC,Acre
+,,42,SC,Santa Catarina
+,,42,SC,Santa Catarina
+,,26,PE,Pernambuco
+,,15,PA,Pará
+,,29,BA,Bahia
+,,25,PB,Paraíba
+,,35,SP,São Paulo
+,,21,MA,Maranhão
+,,42,SC,Santa Catarina

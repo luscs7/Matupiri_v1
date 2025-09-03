@@ -1,0 +1,1 @@
+# mantém o pacote testável

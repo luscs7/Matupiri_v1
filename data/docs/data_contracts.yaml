@@ -1,0 +1,72 @@
+# Contratos de dados consumidos pelo app
+version: 1
+
+policies_xlsx:
+  path: processed/politicas_publicas.xlsx
+  sheet: 0
+  required_columns:
+    - Número
+    - Politicas publicas
+    - nivel
+    - Descrição dos direitos
+    - Acesso
+    - Link
+
+geo_ufs_csv:
+  path: processed/geo/ufs.csv
+  required_columns:
+    - uf
+    - ibge_uf
+  latlon_any_of:
+    - [lat, lon]
+    - [latitude, longitude]
+    - [y, x]
+
+geo_municipios_csv:
+  path: processed/geo/municipios.csv
+  required_columns:
+    - nome_mun
+    - uf
+    - ibge_mun
+  latlon_any_of:
+    - [lat, lon]
+    - [latitude, longitude]
+    - [y, x]
+
+defesos_csv:
+  path: processed/defesos.csv
+  required_columns:
+    - especie
+    - nome_popular
+    - arte_pesca
+    - uf
+    - inicio
+    - fim
+  optional_columns:
+    - fundamento_legal
+    - esfera
+    - link_oficial
+
+ucs_csv:
+  path: processed/ucs.csv
+  required_columns:
+    - nome
+    - categoria
+    - esfera
+    - uf
+    - area_ha
+
+ucs_geojson:
+  path: processed/ucs.geojson
+  must_be: GeoJSON
+  feature_properties_at_least:
+    - nome
+    - categoria
+    - esfera
+    - uf
+
+profile_schema_json:
+  path: docs/profile_schema.json
+
+keyword_map_json:
+  path: docs/keyword_map.json

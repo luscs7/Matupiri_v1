@@ -1,0 +1,68 @@
+{
+  "nome": {
+    "label": "Nome completo",
+    "type": "text"
+  },
+  "idade": {
+    "label": "Idade",
+    "type": "number"
+  },
+  "municipio": {
+    "label": "Município",
+    "type": "text"
+  },
+  "estado": {
+    "label": "Estado (UF)",
+    "type": "text"
+  },
+  "atividade": {
+    "label": "Atividade principal",
+    "type": "select",
+    "options": [
+      "pescador artesanal",
+      "pescadora artesanal",
+      "aquicultor(a)",
+      "marisqueiro(a)",
+      "agricultor(a) familiar",
+      "empreendedor(a)",
+      "estudante",
+      "outro"
+    ]
+  },
+  "renda_mensal_sm": {
+    "label": "Renda mensal (em salários mínimos)",
+    "type": "number"
+  },
+  "registro_rgp": {
+    "label": "Possui RGP/Registro de pescador(a)?",
+    "type": "bool"
+  },
+  "cadunico": {
+    "label": "Está inscrito(a) no CadÚnico?",
+    "type": "bool"
+  },
+  "cpf": {
+    "label": "Possui CPF?",
+    "type": "bool"
+  },
+  "cnpj": {
+    "label": "Possui CNPJ (meio/associação/cooperativa)?",
+    "type": "bool"
+  },
+  "associado": {
+    "label": "É associado(a) a colônia/associação/cooperativa?",
+    "type": "bool"
+  },
+  "mulher": {
+    "label": "Se identifica como mulher?",
+    "type": "bool"
+  },
+  "juventude": {
+    "label": "Tem entre 15 e 29 anos?",
+    "type": "bool"
+  },
+  "pessoa_com_deficiencia": {
+    "label": "Pessoa com deficiência (PcD)?",
+    "type": "bool"
+  }
+}

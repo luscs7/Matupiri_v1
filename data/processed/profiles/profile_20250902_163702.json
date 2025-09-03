@@ -1,0 +1,26 @@
+{
+  "nome": "Lucas Pereira",
+  "genero": "Homem",
+  "segmento": "Pessoa Física",
+  "cpf_cnpj": "",
+  "uf": "PA",
+  "municipio": "150170",
+  "uf_display": "PA — Pará",
+  "municipio_label": "Bragança (150170)",
+  "atividade": "Aquicultura",
+  "experiencia_anos": 30,
+  "docs": {
+    "CAF/DAP ativa (Agricultura Familiar)": true,
+    "RGP/Registro Pesca": true,
+    "Comprovante de residência": true,
+    "Comprovante de atividade": true,
+    "NIS/PIS": true
+  },
+  "docs_presentes": [
+    "CAF/DAP ativa (Agricultura Familiar)",
+    "Comprovante de atividade",
+    "Comprovante de residência",
+    "NIS/PIS",
+    "RGP/Registro Pesca"
+  ]
+}

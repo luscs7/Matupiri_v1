@@ -1,0 +1,302 @@
+policy_id,nome,nivel,tipo_beneficio,responsavel,descricao,criterios,legislacao_titulo,legislacao_url,info_url,phone,email,contact_site,financas_resumo,subprogramas,como_acessar
+POL026,Programa Regulariza Pará,Estadual,regularização fundiária / segurança jurídica territorial,Governo Do Estado Do Pará – Iterpa (Instituto De Terras Do Pará),"Promove a regularização fundiária de imóveis rurais e territórios de uso coletivo, garantindo títulos de terra e segurança jurídica, integrando critérios socioambientais e priorizando comunidades tradicionais","- Residência em território paraense (obrigatório)
+- Ocupação de área passível de regularização (obrigatório)
+- Declaração de ocupação/posse (obrigatório)
+- Documentos pessoais (obrigatório)
+- Solicitação de regularização (obrigatório)
+- Análise fundiária e ambiental (obrigatório)
+- Recebimento de título (obrigatório)",Decreto Estadual nº 2.745/2022 (dispõe sobre o Programa Regulariza Pará),https://www.semas.pa.gov.br/legislacao/files/pdf/192140.pdf,https://www.iterpa.pa.gov.br/regulariza-para,(91) 3241-6200,presidencia@iterpa.pa.gov.br,http://www.iterpa.pa.gov.br,,"Integração CAR/PRA, Mediação de Conflitos Fundiários, Mutirões Itinerantes, Titulação Coletiva, Titulação Individual",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (91) 3241-6200. E-mails: presidencia@iterpa.pa.gov.br.
+POL023,Acordos de Pesca,Estadual,instrumento de gestão comunitária dos recursos pesqueiros,MPA,"São pactos comunitários reconhecidos pelo poder público que definem regras de uso dos recursos pesqueiros (defesos locais, artes de pesca permitidas, áreas de exclusão, cotas de captura), visando à sustentabilidade dos estoques e ao fortalecimento da gestão territorial da pesca","- Comunidade pesqueira organizada (obrigatório)
+- Área de uso pesqueiro comum (obrigatório)
+- Proposta comunitária (obrigatório)
+- Elaboração participativa (obrigatório)
+- Homologação institucional (obrigatório)
+- Implementação e fiscalização (obrigatório)
+- Revisão periódica (obrigatório)",Instrução Normativa IBAMA nº 29/2002 (estabelece diretrizes para acordos de pesca),https://www.ibama.gov.br/component/legislacao/?view=legislacao&legislacao=131304,https://www.semas.pa.gov.br/,(61) 2020-6300,ouvidoria@mpa.gov.br,https://www.gov.br/mpa,,"Elaboração Comunitária, Homologação IBAMA/SEMAS, Implementação e Fiscalização Participativa, Revisão e Monitoramento Periódico",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 2020-6300. E-mails: ouvidoria@mpa.gov.br.
+POL035,Programa Estadual de Fortalecimento da Agricultura Familiar (Pará Rural / Pró-Rural),Estadual,fomento produtivo estadual,SEDAP/SEDEPA,Apoio financeiro e técnico para fortalecer a agricultura familiar e a pesca no Pará,"- Agricultor familiar do Pará (obrigatório)
+- Projeto de produção sustentável (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Projeto produtivo (obrigatório)
+- Apoio financeiro direto (obrigatório)
+- Apoio a associações/cooperativas (obrigatório)
+- Submissão em editais estaduais (obrigatório)",SEDAP – Portal institucional,https://www.sedap.pa.gov.br/,SEDAP – Agricultura Familiar PA,(91) 3246-8475,gabinete@sagri.pa.gov.br,http://www.sagri.pa.gov.br,"• fomento_individual_max: R$ 50.000,00 (indicativo)
+• fomento_coletivo_max: “conforme edital (a confirmar)”
+• prazo_execucao_projeto: 12–24 meses (típico)
+• forma_repasse: convênio/termo de fomento","Assistência Técnica e Capacitação, Fomento Coletivo, Fomento Individual, Infraestrutura Produtiva e Comercial, Microcrédito/Crédito Rotativo",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (91) 3246-8475. E-mails: gabinete@sagri.pa.gov.br.
+POL025,Feiras e Eventos de Promoção da Pesca e Aquicultura (Pará),Estadual,fomento comercial / visibilidade de mercado,SEDEPA,"Organização de feiras, mostras e eventos estaduais que promovem a pesca artesanal e a aquicultura, facilitando a comercialização, o acesso a mercados e a divulgação da produção local","- Produtor/a da pesca/aquicultura (obrigatório)
+- Produto de origem local (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Nota Fiscal de Produtor (obrigatório)
+- Inscrição no evento (obrigatório)
+- Participação presencial (obrigatório)",Agência Pará – Feira do Pescado (2025),https://www.agenciapara.com.br/noticia/65539/sedap-intensificara-as-acoes-de-pesca-e-aquicultura-em-abril-com-a-realizacao-de-eventos,https://www.par%C3%A1.gov.br,(91) 3246-8475,gabinete@sagri.pa.gov.br,http://www.sagri.pa.gov.br,,"ExpoPesca Pará, Feiras Regionais de Aquicultura, Festival do Peixe do Pará, Rodadas de Negócios Institucionais, Semana da Pesca Artesanal",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (91) 3246-8475. E-mails: gabinete@sagri.pa.gov.br.
+POL024,Programa Estadual de Desenvolvimento da Pesca e Aquicultura,Estadual,programa estadual de fomento produtivo e ordenamento pesqueiro,SEDEPA,"Visa fortalecer a pesca artesanal e a aquicultura no Pará por meio de crédito, assistência técnica, infraestrutura de desembarque, capacitação e ordenamento pesqueiro","- Atuação no Pará (obrigatório)
+- Projeto produtivo (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- RGP ativo (se pescador) (obrigatório)
+- Projeto técnico de obra/infraestrutura (obrigatório)
+- Requerimento bancário (obrigatório)
+- Participar de chamadas da SEPAq ou órgãos parceiros.
+- Cumprir contrapartidas do projeto e prestar contas.",Lei Estadual (PA) – Política Pesqueira e Aquícola (2005),https://www.semas.pa.gov.br/legislacao/files/pdf/160372.pdf,https://www.par%C3%A1.gov.br,(91) 3246-8475,gabinete@sagri.pa.gov.br,http://www.sagri.pa.gov.br,,"Assistência Técnica e Sanidade, Comercialização e Feiras, Crédito Estadual Pesca/Aquicultura, Infraestrutura de Desembarque e Beneficiamento, Ordenamento e Monitoramento",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (91) 3246-8475. E-mails: gabinete@sagri.pa.gov.br.
+POL034,Fundo Amazônia Oriental (FAO),Estadual,fundo financeiro,SEMAS,"Fundo estadual para financiar projetos de conservação, bioeconomia e ordenamento territorial","- Localização na Amazônia Oriental (obrigatório)
+- Envolvimento comunitário/territorial (obrigatório)
+- Projeto técnico (obrigatório)
+- Estatuto/ata da organização (obrigatório)
+- Submissão de projeto (obrigatório)
+- Prestação de contas (obrigatório)",Decreto Estadual nº 3.134/2023 (altera o Decreto nº 346/2019),https://leisestaduais.com.br/pa/decreto-n-3134-2023-para-altera-o-art-5o-do-decreto-estadual-no-346-de-14-de-outubro-de-2019-que-dispoe-sobre-a-estrategia-de-financiamento-denominada-fundo-da-amazonia-oriental-fao-eastern-amazon-fund-eaf-como-instrumento-de-colaboracao-privada-ao-alcance-das-metas-de-politicas-publicas-de-meio-ambiente-e-desenvolvimento-no-estado-do-para,SEMAS – FAO,0800-702-6337,faleconosco@bndes.gov.br,https://www.bndes.gov.br/fundoamazonia,"• edital_valor_minimo_projeto: R$ 50.000,00 (indicativo)
+• edital_valor_maximo_projeto: R$ 5.000.000,00 (indicativo)
+• contrapartida: “conforme edital”
+• desembolso: por marcos (tranches)","Editais de Bioeconomia, Editais de Monitoramento/Controle, Editais de Ordenamento Territorial, Editais de Restauração, Linha de Projetos Municipais",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: 0800-702-6337. E-mails: faleconosco@bndes.gov.br.
+POL022,Plano Estadual de Bioeconomia (PlanBio),Estadual,plano estratégico de fomento à bioeconomia,SEMAS,"Estrutura planos estaduais para impulsionar cadeias produtivas da bioeconomia, agregando valor a produtos da sociobiodiversidade e promovendo pesquisa, inovação e mercados sustentáveis","- Atuação no estado do Pará (obrigatório)
+- Envolvimento em cadeias de bioeconomia (obrigatório)
+- Projeto de bioeconomia (obrigatório)
+- Participar de editais estaduais (obrigatório)
+- Proposta de fortalecimento (obrigatório)
+- Plano de manejo/restauração (obrigatório)",Decreto Estadual nº 2.746/2022 (institui o PlanBio/PA),https://www.semas.pa.gov.br/legislacao/files/pdf/192126.pdf,https://www.semas.pa.gov.br/planbio/,(91) 3184-3500,gabinete@semas.pa.gov.br,http://www.semas.pa.gov.br,,"Eixo Ciência, Tecnologia e Inovação, Eixo Fomento Produtivo, Eixo Inclusão Social e Capacitação, Eixo Mercados e Agregação de Valor, Eixo Sustentabilidade e Restauração",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (91) 3184-3500. E-mails: gabinete@semas.pa.gov.br.
+POL027,Plano Estadual Amazônia Agora (PEAA),Estadual,"plano estruturante de ordenamento territorial, clima e bioeconomia",SEMAS/PA,"Estabelece estratégia estadual de descarbonização da economia do Pará, baseada em quatro pilares: (1) Ordenamento Territorial; (2) Bioeconomia; (3) Controle do Desmatamento; (4) Desenvolvimento Rural Sustentável","- Atuação no estado do Pará (obrigatório)
+- Projeto de produção sustentável (obrigatório)
+- Projeto técnico ou plano de manejo (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Declaração fundiária/ambiental (obrigatório)
+- Cadeia da sociobiodiversidade (obrigatório)
+- Adequação ambiental (obrigatório)
+- Participar de convênios estaduais (obrigatório)",Portal Amazônia Agora – Transparência Pública,https://www.amazoniaagora.pa.gov.br/transparencia-publica/,https://www.semas.pa.gov.br,(91) 3184-3500,gabinete@semas.pa.gov.br,http://www.semas.pa.gov.br,,"Interface FAO, Pilar Bioeconomia, Pilar Controle do Desmatamento, Pilar Desenvolvimento Rural Sustentável, Pilar Ordenamento Territorial",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (91) 3184-3500. E-mails: gabinete@semas.pa.gov.br.
+POL028,Programa Territórios Sustentáveis,Estadual,programa estruturante de governança territorial e inclusão produtiva,SEMAS/PA,"Articula ações de regularização ambiental e fundiária, desenvolvimento produtivo sustentável, inclusão social e governança multissetorial, para reduzir desmatamento e fortalecer a bioeconomia","- Localização em território prioritário (obrigatório)
+- Inserção em cadeia sustentável (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Projeto comunitário (obrigatório)
+- Participar de editais do programa (obrigatório)
+- Inscrição no CAR e adesão ao PRA (obrigatório)
+- Cadeia da sociobiodiversidade (obrigatório)",SEMAS/PA – portal institucional,https://www.semas.pa.gov.br/,https://www.semas.pa.gov.br,(91) 3184-3500,gabinete@semas.pa.gov.br,http://www.semas.pa.gov.br,,"Educação Ambiental, Eixo Governança e Transparência, Eixo Inclusão Produtiva, Eixo Regularização Ambiental (CAR/PRA), Eixo Regularização Fundiária",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (91) 3184-3500. E-mails: gabinete@semas.pa.gov.br.
+POL010,Política Nacional de Segurança Alimentar e Nutricional (PNSAN),Nacional,política pública estruturante / acesso a programas sociais,CAISAN,"Estabelece as diretrizes nacionais para garantir o direito humano à alimentação adequada (DHAA), articulando políticas como PAA, PNAE, PRONAF e programas de transferência de renda","- Participação em rede SAN (obrigatório)
+- Ata/declaração de conselho ou fórum (obrigatório)
+- Participação em conferências
+- Elaboração de Plano de SAN (obrigatório)
+- Garantia de acesso a alimentos (obrigatório)",Lei nº 11.346/2006 (cria o SISAN e institui a PNSAN),https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11346.htm,https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Decreto/D7272.htm / https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11346.htm,121,ouvidoria@mds.gov.br,https://www.gov.br/mds,,,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: 121. E-mails: ouvidoria@mds.gov.br.
+POL014,Política de Garantia de Preços Mínimos para Produtos da Sociobiodiversidade (PGPM-Bio),Nacional,subvenção econômica (garantia de preço mínimo),CONAB,"Concede subvenção financeira quando o preço de venda de produtos da sociobiodiversidade fica abaixo do preço mínimo estabelecido pelo governo, assegurando renda mínima ao extrativista/pescador","- Agricultor/extrativista familiar (obrigatório)
+- Produto contemplado (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Nota fiscal do produto (obrigatório)
+- Comprovante de venda abaixo do preço mínimo (obrigatório)
+- Solicitação junto à CONAB (obrigatório)
+- Pagamento da subvenção (obrigatório)",Atos anuais de preços mínimos extrativistas (PGPM-Bio),https://www.conab.gov.br/ultimas-noticias/5654-conab-divulga-precos-minimos-para-produtos-extrativistas,https://www.conab.gov.br/pgpm-bio,(61) 3312-6666,ouvidoria@conab.gov.br,https://www.conab.gov.br,"• teto_anual: 8000
+• preco_minimo: variável por produto
+• subvenção: diferença p/ preço mínimo
+• prazo_pagamento: 30–60 dias
+• produtos_abrangidos: lista anual CONAB",,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 3312-6666. E-mails: ouvidoria@conab.gov.br.
+POL004,Programa Nacional de Alimentação Escolar (PNAE),Nacional,compra pública (alimentação escolar),FNDE,Aquisição de alimentos da agricultura familiar e da pesca artesanal para a alimentação escolar em toda a rede pública de ensino básico,"- Fornecedor da agricultura/pesca familiar (obrigatório)
+- Capacidade de fornecimento (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Projeto de Venda (obrigatório)
+- Nota Fiscal de Produtor (obrigatório)
+- Acompanhar chamadas públicas (obrigatório)
+- Submeter Projeto de Venda (obrigatório)
+- Entregar produtos conforme contrato (obrigatório)",Lei nº 11.947/2009 (alimentaçao escolar; 30% da agricultura familiar),https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L11947.htm,https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pnae,0800-616161,cgpae@fnde.gov.br,https://www.fnde.gov.br,• percentual_obrigatorio_AF: 0.3,"Compra da Agricultura Familiar, Educação Alimentar e Nutricional, Gestão descentralizada",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: 0800-616161. E-mails: cgpae@fnde.gov.br.
+POL021,Previdência Social,Nacional,"seguridade social (aposentadorias, auxílios, pensões e benefícios assistenciais vinculados à contribuição)",INSS,"Garante renda de proteção social a trabalhadores brasileiros e seus dependentes em casos de aposentadoria, invalidez, idade avançada, morte, doença, acidente, maternidade e períodos de afastamento","- Contribuição previdenciária (obrigatório)
+- Enquadramento como segurado especial (obrigatório)
+- RGP ativo (para pescadores) (obrigatório)
+- Documentos pessoais e CadÚnico (obrigatório)
+- Inscrição no INSS (obrigatório)
+- Idade mínima (obrigatório)
+- Incapacidade permanente (obrigatório)
+- Incapacidade temporária (obrigatório)",Lei nº 8.213/1991 (Planos de Benefícios da Previdência Social),https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm,https://www.gov.br/inss,135,ouvidoria@inss.gov.br,https://www.gov.br/inss,,,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: 135. E-mails: ouvidoria@inss.gov.br.
+POL001,Plano Safra da Agricultura Familiar (PRONAF Pesca e Aquicultura),Nacional,crédito rural subsidiado (PRONAF),MAPA,"Crédito rural para investimentos ligados à pesca e aquicultura (embarcações, infraestrutura, inovação).","- Agricultor Familiar (obrigatório)
+- Atividade pesqueira/aquícola (obrigatório)
+- CAF/DAP (obrigatório)
+- Projeto/Orçamento simplificado (obrigatório)
+- Solicitação em agente financeiro (obrigatório)
+- Análise de crédito (obrigatório)
+- Assinatura do contrato (obrigatório)
+- Plano de custeio (obrigatório)",Lei nº 11.326/2006 (define a agricultura familiar),https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11326.htm,https://www.gov.br/agricultura/pt-br/assuntos/politicas-agricolas/plano-safra,(61) 3218-2603,pronaf@mda.gov.br,https://www.gov.br/mda/pt-br/assuntos/agricultura-familiar/pronaf,"• taxa_juros_anual: 2% a 4% a.a.
+• prazo_maximo: até 10 anos
+• carencia: até 3 anos
+• bonus_adimplencia: até 25%
+• linha_custeio: teto R$ 250.000
+• linha_invest: teto R$ 250.000
+• linha_coop: teto R$ 1.500.000","PRONAF Custeio, PRONAF Investimento, PRONAF Jovem/Mulher, Pronaf Bioeconomia, Pronaf Cotas-Partes, Pronaf Jovem, Pronaf Mais Alimentos, Pronaf Microcrédito (Grupo ""B"")",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 3218-2603. E-mails: pronaf@mda.gov.br.
+POL016,Programa Bioeconomia Brasil – Sociobiodiversidade,Nacional,programa estruturante de fomento e valorização produtiva,MAPA,"Visa ampliar a produção, a agregação de valor e a inserção de produtos da sociobiodiversidade em mercados diferenciados, fortalecendo cadeias produtivas e a bioeconomia no Brasil","- Agricultor/pescador/extrativista familiar (obrigatório)
+- Projeto produtivo sustentável (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Projeto de bioeconomia (obrigatório)
+- Submissão de projeto (obrigatório)
+- Execução e prestação de contas (obrigatório)",Portaria MAPA nº 121/2019 (institui o Programa Bioeconomia Brasil – Sociobiodiversidade),https://www.gov.br/agricultura/pt-br/assuntos/sustentabilidade/programa-bioeconomia-brasil-sociobiodiversidade,https://www.gov.br/agricultura/pt-br/assuntos/sustentabilidade/bioeconomia,(61) 3218-2828,faleconosco@agricultura.gov.br,https://www.gov.br/agricultura,,,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 3218-2828. E-mails: faleconosco@agricultura.gov.br.
+POL003,Desenrola Rural,Nacional,renegociação de dívidas / facilitação de acesso a crédito,MDA,"Liquidação/renegociação de dívidas em inadimplência, com possibilidade de descontos de até 96%, visando recuperar adimplência e acesso a novas linhas (como PRONAF).","- Ser agricultor/pescador familiar (obrigatório)
+- Existência de dívida rural (obrigatório)
+- Contrato de crédito rural (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Solicitar renegociação (obrigatório)
+- Análise da dívida (obrigatório)
+- Formalização do acordo (obrigatório)
+- Inscrição na PGFN (obrigatório)",Decreto nº 12.381/2025 (institui o Desenrola Rural e estabelece diretrizes),https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12381.htm,https://www.gov.br/mda/pt-br/desenrola-rural,,,https://www.gov.br/mda,• desconto_maximo: até 96%,"Crédito de Instalação (INCRA), Dívidas com recursos dos Fundos Constitucionais, Dívidas inscritas na Dívida Ativa da União (DAU), Outras dívidas rurais junto a bancos ou instituições financeiras",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado.
+POL012,Política Nacional de Assistência Técnica e Extensão Rural (PNATER),Nacional,serviço público (assistência técnica e extensão rural),MDA,"Prestação gratuita de serviços de ATER voltados ao desenvolvimento sustentável da agricultura familiar, pesca artesanal e comunidades tradicionais, articulando crédito, produção e comercialização","- Agricultor/pescador familiar (obrigatório)
+- Residência rural/pesqueira (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Requerimento de ATER (obrigatório)
+- Cadastro no sistema ATER (obrigatório)
+- Atendimento por órgão oficial (obrigatório)
+- Contrato/convênio firmado (obrigatório)
+- Acesso remoto",Decreto nº 7.215/2010 (regulamenta a Lei 12.188/2010),https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Decreto/D7215.htm,https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12188.htm,(61) 3218-3319,saf@mda.gov.br,https://www.gov.br/mda,,"ATER Digital, ATER Privada/OSCIPs, ATER Pública, Pronater",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 3218-3319. E-mails: saf@mda.gov.br.
+POL030,Programa Nacional de Crédito Fundiário (PNCF),Nacional,crédito rural,MDA,Financiamento para compra de terra e infraestrutura básica produtiva,"- Agricultor familiar sem terra ou com pouca terra (obrigatório)
+- Capacidade de pagamento (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Projeto de aquisição/produção (obrigatório)
+- Solicitar junto ao agente financeiro (obrigatório)
+- Assinatura de contrato (obrigatório)
+- Valor financiado (obrigatório)",Resolução MDA nº 4/2025 (atualiza regulamento operativo do PNCF),https://www.gov.br/mda/pt-br/assuntos/terra-brasil/arquivos/resolucao-mda-no-4-de-22-de-janeiro-de-2025.pdf,Gov.br PNCF,(61) 3218-2603,saf@mda.gov.br,https://www.gov.br/mda,"• teto_financiamento_individual: R$ 150.000,00 (indicativo)
+• entrada/contrapartida: “conforme modalidade”
+• taxa_juros_anual: “subsidiada (a confirmar)”
+• prazo_total: até 25 anos (indicativo)
+• carencia: 3–5 anos (indicativo)",,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 3218-2603. E-mails: saf@mda.gov.br.
+POL029,Programa Bolsa Família (PBF),Nacional,benefício financeiro,MDS,Transferência direta de renda com valores base e adicionais por composição familiar,"- Renda per capita familiar (obrigatório)
+- Cadastro no CadÚnico (obrigatório)
+- Documentos pessoais (obrigatório)
+- Cadastro e atualização (obrigatório)
+- Valor por pessoa (obrigatório)
+- Valor por família (obrigatório)
+- Criança de 0 a 6 anos (obrigatório)
+- Gestantes, nutrizes e adolescentes (obrigatório)",Decreto nº 12.064/2024 (regulamenta o PBF),https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12064.htm,Gov.br Bolsa Família,121 / WhatsApp (61) 4042-1552,protocolo@mds.gov.br,https://www.gov.br/mds,"• beneficio_base_minimo: R$ 600,00/mês
+• beneficio_renda_cidadania_por_pessoa: 142
+• beneficio_primeira_infancia: R$ 150,00/mês por criança 0–6 anos
+• beneficio_variavel_familiar: R$ 50,00/mês por gestante, nutriz, criança 7–12 ou adolescente 12–18
+• beneficio_extraordinario_transicao: “conforme regra vigente”
+• condicionalidades: frequência escolar; vacinação; acompanhamento de saúde","Benefício Complementar (BCO), Benefício Extraordinário de Transição (BET), Benefício Primeira Infância (BPI), Benefício Variável Familiar (BVF), Benefício de Renda de Cidadania (BRC)",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: 121 / WhatsApp (61) 4042-1552. E-mails: protocolo@mds.gov.br.
+POL015,Plano Nacional de Fortalecimento das Comunidades Extrativistas e Ribeirinhas (Planafe),Nacional,plano estruturante / política integradora,MMA,Integra e adequa políticas públicas para melhorar a qualidade de vida e conservar o meio ambiente nas comunidades extrativistas e ribeirinhas; apoia a PNPCT.,"- Comunidade extrativista/ribeirinha (obrigatório)
+- Organização comunitária (obrigatório)
+- Declaração comunitária (obrigatório)
+- Cadastro socioeconômico
+- Cadastro no Planafe (obrigatório)
+- Participação em oficinas/atividades
+- Vínculo territorial (obrigatório)
+- Declaração territorial (obrigatório)",Decreto nº 9.334/2018 (institui o Planafe),https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/D9334.htm,https://www2.camara.leg.br/legin/fed/decret/2018/decreto-9334-5-abril-2018-786417-publicacaooriginal-155181-pe.html?utm_source=chatgpt.com,(61) 3218-2603,ouvidoria@mda.gov.br,https://www.gov.br/mda,,,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 3218-2603. E-mails: ouvidoria@mda.gov.br.
+POL033,Plano Nacional de Áreas Protegidas (PNAP),Nacional,plano estruturante,MMA,Organiza e integra a gestão do sistema nacional de áreas protegidas,"- Inserção em UC ou mosaico (obrigatório)
+- Compatibilidade de uso sustentável (obrigatório)
+- Cadastro em conselho gestor (obrigatório)
+- Plano de Manejo ou PGTA (obrigatório)
+- Participar de conselhos de gestão (obrigatório)
+- Acesso a projetos de apoio",Decreto nº 5.758/2006 (institui o PNAP),https://legislacao.presidencia.gov.br/ficha/?/legisla/legislacao.nsf/Viw_Identificacao/DEC+5.758-2006=&OpenDocument=,MMA – PNAP,(61) 2028-1000,faleconosco@mma.gov.br,https://www.gov.br/mma,,,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 2028-1000. E-mails: faleconosco@mma.gov.br.
+POL006,Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais (PNPCT),Nacional,política transversal de direitos,MMA,"Reconhecimento e garantia dos direitos territoriais, culturais, sociais e econômicos dos povos e comunidades tradicionais, assegurando acesso a políticas públicas específicas","- Reconhecimento como PCT (obrigatório)
+- Organização coletiva (obrigatório)
+- Declaração de comunidade tradicional (obrigatório)
+- Cadastro socioeconômico (CadÚnico/SEAD)
+- Cadastro junto a órgãos gestores (obrigatório)
+- Participação em conselhos e fóruns
+- Vínculo territorial (obrigatório)
+- Declaração territorial (obrigatório)",Decreto nº 6.040/2007 (institui a PNPCT),https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Decreto/D6040.htm,https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6040.htm,121,ouvidoria@mds.gov.br,https://www.gov.br/mds,,,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: 121. E-mails: ouvidoria@mds.gov.br.
+POL009,Sistema Nacional de Unidades de Conservação da Natureza (SNUC) – Uso Sustentável,Nacional,política ambiental de conservação e uso sustentável,MMA,"Estabelece categorias de unidades de conservação de uso sustentável (como Reservas Extrativistas, Reservas de Desenvolvimento Sustentável e APAs), garantindo uso dos recursos naturais de forma comunitária e sustentável","- Residência em UC de uso sustentável (obrigatório)
+- Atividade tradicional (obrigatório)
+- Comprovação de residência (obrigatório)
+- Cadastro no CadÚnico
+- Participação em conselho deliberativo (obrigatório)
+- Assinatura de Termo de Compromisso (obrigatório)
+- Respeitar regras de manejo (obrigatório)",Decreto nº 4.340/2002 (regulamenta dispositivos da Lei do SNUC),https://www.planalto.gov.br/ccivil_03/decreto/2002/d4340.htm,https://www.planalto.gov.br/ccivil_03/leis/l9985.htm,(61) 3341-9280,comunicacao@icmbio.gov.br,https://www.icmbio.gov.br,,,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 3341-9280. E-mails: comunicacao@icmbio.gov.br.
+POL032,Política Nacional de Gestão Territorial e Ambiental de Terras Indígenas (PNGATI),Nacional,política indigenista,MMA/FUNAI,"Apoia a gestão territorial, segurança alimentar, conservação ambiental e autonomia produtiva de povos indígenas","- Reconhecimento como povo indígena (obrigatório)
+- Localização em Terra Indígena (obrigatório)
+- Declaração da FUNAI (obrigatório)
+- Plano de Gestão Territorial e Ambiental (PGTA) (obrigatório)
+- Cadastro em programas da PNGATI (obrigatório)
+- Participação em oficinas e capacitações",Decreto nº 7.747/2012 (institui a PNGATI),https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7747.htm,Gov.br PNGATI,(61) 3247-6000,ouvidoria@funai.gov.br,https://www.gov.br/funai,,,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 3247-6000. E-mails: ouvidoria@funai.gov.br.
+POL036,Lei da Pesca – Política Nacional de Pesca e Aquicultura,Nacional,marco legal,MPA,"Estabelece normas para ordenamento pesqueiro, RGP, aquicultura e políticas públicas de pesca","- Exercício da atividade pesqueira (obrigatório)
+- RGP ativo (obrigatório)
+- RGP válido (obrigatório)
+- Licenciamento ambiental (quando aplicável) (obrigatório)
+- Cumprimento das normas de ordenamento (obrigatório)
+- Participação em conselhos e fóruns",Lei nº 11.959/2009 (Política Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca),https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11959.htm,Planalto – Lei da Pesca,(61) 2020-6300,ouvidoria@mpa.gov.br,https://www.gov.br/mpa,,,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 2020-6300. E-mails: ouvidoria@mpa.gov.br.
+POL017,Plano Nacional da Pesca Artesanal,Nacional,plano estruturante de políticas públicas,MPA,"Conjunto de ações governamentais voltadas ao fortalecimento da pesca artesanal, assegurando acesso a crédito, assistência técnica, infraestrutura, mercados institucionais (PAA/PNAE) e políticas sociais (Seguro-Defeso, previdência)","- Ser pescador/a artesanal (obrigatório)
+- Organização comunitária (obrigatório)
+- RGP ativo (obrigatório)
+- Declaração da colônia/associação (obrigatório)
+- Participar de cadastros do plano (obrigatório)
+- Inserção em ações do plano",Portaria MPA nº 269/2024 (institui o PNPA),https://www.in.gov.br/en/web/dou/-/portaria-n-269-de-11-de-junho-de-2024-571014365,https://www.gov.br/mpa/pt-br/assuntos/pesca/pesca-artesanal,(61) 2020-6300,ouvidoria@mpa.gov.br,https://www.gov.br/mpa,,,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 2020-6300. E-mails: ouvidoria@mpa.gov.br.
+POL005,Plano Nacional de Desenvolvimento da Aquicultura e da Pesca (PNDAP),Nacional,plano setorial / política de fomento,MPA,"Diretrizes nacionais para o desenvolvimento sustentável da pesca e aquicultura; integra ações de crédito, assistência técnica, ordenamento, capacitação e infraestrutura","- Envolvimento no setor pesqueiro/aquícola (obrigatório)
+- Participação em conselhos e fóruns
+- Projeto/Plano técnico (obrigatório)
+- Acompanhar editais PNDAP (obrigatório)
+- Participar de capacitações
+- Inserção institucional (obrigatório)
+- Assento em conselho gestor
+- Projeto de PD&I (obrigatório)",Portaria MAPA nº 425/2022 (institui GT para o Plano Nacional de Desenvolvimento da Aquicultura – PNDA),https://www.gov.br/agricultura/pt-br/assuntos/aquicultura-e-pesca/arquivos-aquicultura/portaria-mapa-425-2022.pdf,https://www.gov.br/mpa/pt-br,(61) 2020-6300,ouvidoria@mpa.gov.br,https://www.gov.br/mpa,,"Eixo 1 Governança e Fortalecimento Institucional, Eixo 2 PD&I e Extensão Rural, Eixo 3 Meio Ambiente e Desenvolvimento Sustentável, Eixo 4 Desenvolvimento da Competitividade do Mercado Interno e Externo, Eixo 5 Estrutura, Organização e Fomento da Cadeia Produtiva, Eixo 6 Sanidade, Biossegurança e Bem-estar Animal, Eixo 7 Geração e Gestão de Dados",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 2020-6300. E-mails: ouvidoria@mpa.gov.br.
+POL002,Programa Povos da Pesca Artesanal,Nacional,"programa estruturante (ações de fomento, capacitação, crédito e assistência)",MPA,"Apoio à organização social da pesca artesanal, fortalecimento da produção, acesso a políticas públicas, crédito e capacitação","- Ser pescador/a artesanal (obrigatório)
+- Organização social (obrigatório)
+- RGP ativo (obrigatório)
+- Declaração da associação (obrigatório)
+- Cadastro no Programa (obrigatório)
+- Participação em oficinas/eventos
+- Vínculo educacional (obrigatório)
+- Declaração escolar (obrigatório)",Decreto nº 11.626/2023 (institui o Programa Povos da Pesca Artesanal),https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11626.htm,https://www.gov.br/mpa/pt-br/assuntos/pesca/programa-povos-da-pesca-artesanal,(61) 2020-6300,ouvidoria@mpa.gov.br,https://www.gov.br/mpa,,"Ações de enfrentamento à tragédia de derramamento de petróleo, Programa Fortalecimento Produtivo dos Territórios Pesqueiros Artesanais, Programa Jovem Cientista da Pesca Artesanal, Programa Saberes das Águas",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 2020-6300. E-mails: ouvidoria@mpa.gov.br.
+POL007,Registro Geral da Atividade Pesqueira (RGP),Nacional,registro público (licença obrigatória),MPA,"Documento oficial que habilita o pescador ou pescadora a exercer a atividade pesqueira profissional e acessar políticas públicas específicas (ex.: Seguro-Defeso, PRONAF Pesca)","- Ser pescador/a artesanal (obrigatório)
+- Residência em território pesqueiro (obrigatório)
+- Documento pessoal (obrigatório)
+- Declaração de colônia/associação
+- Cadastro no sistema do MPA (obrigatório)
+- Entrega de documentos (obrigatório)
+- Renovação periódica (obrigatório)",Lei nº 11.959/2009 (Política Nacional de Pesca e Aquicultura),https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11959.htm,https://www.gov.br/mpa/pt-br/assuntos/cadastro-registro-e-monitoramento/pescador-e-pescadora-profissional/lancamento-do-novo-sistema-para-cadastramento-e-recadastramento-de-pescadores-e-pescadoras/cadastramento-e-recadastramento-de-pescador-profissional,(61) 2020-6300,rgp@mpa.gov.br,https://www.gov.br/mpa,,,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 2020-6300. E-mails: rgp@mpa.gov.br.
+POL008,Seguro-Defeso (Benefício de Prestação Continuada durante o defeso),Nacional,benefício social (seguro-desemprego específico),MTE,"Benefício mensal equivalente a 1 salário mínimo durante o período de defeso, podendo ser pago em parcelas mensais ou acumuladas em parcela única, condicionado à comprovação da atividade e homologação municipal","- Ser pescador artesanal (obrigatório)
+- Defeso reconhecido (obrigatório)
+- RGP válido (obrigatório)
+- CPF e documentos bancários (obrigatório)
+- Comprovação de comercialização do pescado (obrigatório)
+- Solicitação no INSS/Meu INSS (obrigatório)
+- Conferência de dados (obrigatório)
+- Pagamento mensal (obrigatório)",Decreto nº 12.527/2025 (regulamenta o Seguro-Defeso),https://www.in.gov.br/en/web/dou/-/decreto-n-12.527-de-24-de-junho-de-2025-638087503,https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12527.htm,135 / (61) 3276-5073,pesqbrasil.rgp@mpa.gov.br,https://www.gov.br/mpa,"• valor_parcela: 1518
+• parcelas_min: 2
+• parcelas_max: 5
+• processamento_dias: 45
+• CIN_obrigatoria: até 31/12/2025",,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: 135 / (61) 3276-5073. E-mails: pesqbrasil.rgp@mpa.gov.br.
+POL013,Plano Nacional da Promoção das Cadeias de Produtos da Sociobiodiversidade (PNPSB),Nacional,plano estruturante de fomento produtivo,Ministério Do Desenvolvimento E Assistência Social,"Promove o fortalecimento das cadeias da sociobiodiversidade (castanha, açaí, babaçu, borracha, pescado, entre outros) articulando políticas de crédito, subvenção (PGPM-Bio), ATER, comercialização institucional (PAA/PNAE) e agregação de valor","- Agricultor/pescador/extrativista familiar (obrigatório)
+- Organização comunitária (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Declaração de origem do produto (obrigatório)
+- Submissão a editais PNPSB (obrigatório)
+- Produto contemplado (obrigatório)
+- Nota fiscal (obrigatório)",Portaria Interministerial nº 239/2009 (institui a PNPSB),https://www.gov.br/mda/pt-br/assuntos/sociobiodiversidade/portaria-interministerial-n-239-de-21-de-julho-de-2009.pdf,https://www.conab.gov.br/politicas-agricolas/pgpm-bio,(61) 2028-1000,faleconosco@mma.gov.br,https://www.gov.br/mma,,,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 2028-1000. E-mails: faleconosco@mma.gov.br.
+POL020,Programa Cisternas,Nacional,infraestrutura social (cisternas de consumo e produção) + capacitação,Ministério Do Desenvolvimento E Assistência Social,"Oferece tecnologias sociais de captação e armazenamento de água de chuva para consumo humano e produção de alimentos, garantindo acesso à água potável e segurança alimentar no semiárido e outras regiões vulneráveis","- Residência em área de escassez hídrica (obrigatório)
+- Situação de pobreza ou extrema pobreza (obrigatório)
+- CadÚnico atualizado (obrigatório)
+- Declaração comunitária
+- Inscrição no programa (obrigatório)
+- Seleção e priorização (obrigatório)
+- Construção e capacitação (obrigatório)",Lei nº 12.873/2013 (inclui as cisternas no PPA e em programas federais),https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12873.htm,https://www.gov.br/mds/pt-br/acoes-e-programas/inclusao-produtiva/programa-cisternas,121,cisternas@mds.gov.br,https://www.gov.br/mds,"• cisterna_consumo: 16.000 litros
+• cisterna_producao: 52.000 litros
+• condicionalidade: CadÚnico + insegurança hídrica",,Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: 121. E-mails: cisternas@mds.gov.br.
+POL018,Programa Fomento às Atividades Produtivas Rurais,Nacional,benefício financeiro não reembolsável + assistência técnica (ATER),Ministério Do Desenvolvimento E Assistência Social,"Transferência direta de recursos financeiros, em caráter não reembolsável, para apoiar projetos produtivos sustentáveis de famílias rurais em situação de pobreza, acompanhada por serviços de assistência técnica e extensão rural","- Situação de extrema pobreza (obrigatório)
+- Agricultor/pescador familiar (obrigatório)
+- CadÚnico (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Valor do benefício (obrigatório)
+- Valor do benefício coletivo (obrigatório)
+- Elaboração do projeto (obrigatório)
+- Execução e comprovação (obrigatório)",Decreto nº 9.221/2017 (regulamenta o Programa de Fomento),https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Decreto/D9221.htm,https://www.gov.br/mds/pt-br/acoes-e-programas/inclusao-produtiva/programa-fomento,121,inclusaoprodutiva@mds.gov.br,https://www.gov.br/mds,"• valor_familia: R$ 2.400,00 – R$ 3.000,00
+• valor_coletivo: até R$ 6.400,00
+• parcelas: até 2
+• condicionalidade: ATER obrigatória","Fomento Coletivo, Fomento Familiar",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: 121. E-mails: inclusaoprodutiva@mds.gov.br.
+POL019,Programa de Apoio à Conservação Ambiental (Bolsa Verde),Nacional,benefício financeiro condicionado à conservação ambiental,Ministério Do Desenvolvimento E Assistência Social,"Transferência trimestral de recurso financeiro a famílias em extrema pobreza residentes em áreas de conservação ou assentamentos ambientalmente diferenciados, como incentivo à conservação ambiental e inclusão social","- Situação de extrema pobreza (obrigatório)
+- Residência em área prioritária (obrigatório)
+- CadÚnico atualizado (obrigatório)
+- Declaração comunitária/territorial (obrigatório)
+- Cadastro no programa (obrigatório)
+- Valor do benefício (obrigatório)",Lei nº 12.512/2011 (institui o Programa de Apoio à Conservação Ambiental – Bolsa Verde),https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12512.htm,https://www.gov.br/mds/pt-br/acoes-e-programas/inclusao-produtiva/programa-bolsa-verde,(61) 2028-1000,bolsaverde@mma.gov.br,https://www.gov.br/mma,"• valor_trimestral: 600
+• valor_anual: 2400
+• parcelas: 4
+• condicionalidade: residência em UC/RESEX/assentamento ambiental","Assentamentos Sustentáveis, Famílias em RDS, Famílias em RESEX",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 2028-1000. E-mails: bolsaverde@mma.gov.br.
+POL011,Programa de Aquisição de Alimentos (PAA),Nacional,compra pública com doação simultânea / formação de estoques,Ministério Do Desenvolvimento E Assistência Social,"Compra direta de alimentos produzidos pela agricultura familiar e pesca artesanal, com preços de referência, para abastecer equipamentos públicos de alimentação e entidades socioassistenciais","- Agricultor/pescador familiar (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Projeto de venda (obrigatório)
+- Participar de chamada pública (obrigatório)
+- Entrega dos produtos (obrigatório)
+- Organização coletiva (obrigatório)
+- Produtor de leite familiar (obrigatório)
+- Venda a órgão público (obrigatório)",Decreto nº 7.775/2012 (regulamenta o PAA),https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Decreto/D7775.htm,https://paa.mds.gov.br/page/,(61) 3312-6666,ouvidoria@conab.gov.br,https://www.conab.gov.br,"• teto_individual: R$ 15.000,00/ano
+• teto_coletivo: R$ 1.500.000,00/ano
+• preco_referencia: preços CONAB
+• modalidades: Doação Simultânea; Compra Direta; Formação de Estoques; Incentivo à Produção de Leite
+• prazo_pagamento: até 30 dias","Compra Institucional, Compra com Doação Simultânea (CDS), Formação de Estoques (CPR-Estoque), Incentivo à Produção e ao Consumo de Leite (PAA-Leite)",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 3312-6666. E-mails: ouvidoria@conab.gov.br.
+POL031,Garantia-Safra,Regional,seguro agrícola,MDA/MAPA,Pagamento de benefício financeiro quando houver perda superior a 50% da produção por seca/excesso de chuva,"- Agricultor familiar de baixa renda (obrigatório)
+- Cultivo de culturas alimentares básicas (obrigatório)
+- CAF/DAP ativo (obrigatório)
+- Declaração de plantio (obrigatório)
+- Inscrição no programa (obrigatório)
+- Pagamento de contribuição (obrigatório)
+- Habilitação e adesão municipal (obrigatório)
+- Valor do benefício (obrigatório)",Decreto nº 4.962/2004 (regulamenta a Lei 10.420/2002),https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d4962.htm,Gov.br Garantia Safra,(61) 3218-3319,garantiasafra.cgs@mda.gov.br,https://www.gov.br/mda,"• beneficio_total_anual: 1200
+• parcelas: 5 x R$ 240,00
+• contribuicao_familiar: “taxa de adesão anual”
+• contribuicao_municipio_estado_uniao: “cofinanciamento compartilhado”","Complemento Federal, Contribuição Estadual, Contribuição Familiar, Contribuição Municipal",Confira os critérios listados. Acesse a página oficial (Mais informações). Use o site de atendimento informado. Telefones: (61) 3218-3319. E-mails: garantiasafra.cgs@mda.gov.br.

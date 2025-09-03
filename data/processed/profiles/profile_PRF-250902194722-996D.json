@@ -1,0 +1,26 @@
+{
+  "nome": "Salvaterra",
+  "genero": "Homem",
+  "segmento": "Pessoa Física",
+  "cpf_cnpj": "",
+  "uf": "PA",
+  "municipio": "150170",
+  "municipio_label": "Bragança (150170)",
+  "uf_display": "PA — Pará",
+  "atividade": "Pesca artesanal",
+  "experiencia_anos": 30,
+  "docs": {
+    "CAF/DAP ativa (Agricultura Familiar)": true,
+    "RGP/Registro Pesca": true,
+    "Comprovante de residência": true,
+    "Comprovante de atividade": false,
+    "NIS/PIS": false
+  },
+  "profile_code": "PRF-250902194722-996D",
+  "updated_at": "2025-09-02T19:59:34.493467+00:00",
+  "docs_presentes": [
+    "CAF/DAP ativa (Agricultura Familiar)",
+    "Comprovante de residência",
+    "RGP/Registro Pesca"
+  ]
+}
