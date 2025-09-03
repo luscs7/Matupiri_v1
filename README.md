@@ -1,9 +1,9 @@
-# 🐟 Matupiri
+# Matupiri
 
 Plataforma de **busca e recomendação de políticas públicas** (Streamlit), com observatório,
 catálogo de políticas e análise automática de elegibilidade por perfil.
 
-## 🚀 Quickstart
+## Quickstart
 
 ```bash
 # 1) Ambiente
